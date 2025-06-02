@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleExpenseAPI", "ExampleExpenseAPI\ExampleExpenseAPI.csproj", "{C6E2BCFA-339D-42BA-8912-7399C35B4144}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExternalExpenseMVC", "ExternalExpenseMVC\ExternalExpenseMVC.csproj", "{5CA032F5-6DB0-44EA-985E-E6C37B3B1F7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6E2BCFA-339D-42BA-8912-7399C35B4144}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6E2BCFA-339D-42BA-8912-7399C35B4144}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6E2BCFA-339D-42BA-8912-7399C35B4144}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6E2BCFA-339D-42BA-8912-7399C35B4144}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CA032F5-6DB0-44EA-985E-E6C37B3B1F7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CA032F5-6DB0-44EA-985E-E6C37B3B1F7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CA032F5-6DB0-44EA-985E-E6C37B3B1F7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CA032F5-6DB0-44EA-985E-E6C37B3B1F7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

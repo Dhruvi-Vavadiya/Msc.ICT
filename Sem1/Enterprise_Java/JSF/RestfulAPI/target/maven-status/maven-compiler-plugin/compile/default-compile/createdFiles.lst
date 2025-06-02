@@ -1,0 +1,10 @@
+ejb\DataBeanaApiLocal.class
+ejb\DataBeanaApi.class
+client\RestfulClient.class
+com\mycompany\restfulapi\resources\JakartaEE8Resource.class
+rest\RestFullResource.class
+servlet\RestfullServlet.class
+entity\Bookmaster.class
+com\mycompany\restfulapi\JakartaRestConfiguration.class
+servlet\CRUDUsingEJB.class
+servlet\RestfullServlet$1.class

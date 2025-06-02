@@ -1,0 +1,7 @@
+D:\Msc_ICT\Sem2\C#\WebAPI\InernalExamRelate\ConsoleAppTupleDelegateOopsConcepts\bin\Debug\ConsoleAppTupleDelegateOopsConcepts.exe.config
+D:\Msc_ICT\Sem2\C#\WebAPI\InernalExamRelate\ConsoleAppTupleDelegateOopsConcepts\bin\Debug\ConsoleAppTupleDelegateOopsConcepts.exe
+D:\Msc_ICT\Sem2\C#\WebAPI\InernalExamRelate\ConsoleAppTupleDelegateOopsConcepts\bin\Debug\ConsoleAppTupleDelegateOopsConcepts.pdb
+D:\Msc_ICT\Sem2\C#\WebAPI\InernalExamRelate\ConsoleAppTupleDelegateOopsConcepts\obj\Debug\ConsoleAppTupleDelegateOopsConcepts.csproj.AssemblyReference.cache
+D:\Msc_ICT\Sem2\C#\WebAPI\InernalExamRelate\ConsoleAppTupleDelegateOopsConcepts\obj\Debug\ConsoleAppTupleDelegateOopsConcepts.csproj.CoreCompileInputs.cache
+D:\Msc_ICT\Sem2\C#\WebAPI\InernalExamRelate\ConsoleAppTupleDelegateOopsConcepts\obj\Debug\ConsoleAppTupleDelegateOopsConcepts.exe
+D:\Msc_ICT\Sem2\C#\WebAPI\InernalExamRelate\ConsoleAppTupleDelegateOopsConcepts\obj\Debug\ConsoleAppTupleDelegateOopsConcepts.pdb

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="23605" systemVersion="24A8332" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Dept" representedClassName="Dept" syncable="YES">
+        <attribute name="did" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="dname" optional="YES" attributeType="String"/>
+        <relationship name="toemp" optional="YES" maxCount="1" deletionRule="Cascade" destinationEntity="Emp"/>
+    </entity>
+    <entity name="Emp" representedClassName="Emp" syncable="YES">
+        <attribute name="did" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="eid" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="ename" optional="YES" attributeType="String"/>
+        <attribute name="esalary" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES"/>
+        <relationship name="todept" optional="YES" toMany="YES" deletionRule="No Action" destinationEntity="Dept"/>
+    </entity>
+</model>

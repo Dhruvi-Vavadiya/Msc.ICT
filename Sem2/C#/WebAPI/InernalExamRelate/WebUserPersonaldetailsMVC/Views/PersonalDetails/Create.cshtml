@@ -1,0 +1,104 @@
+﻿@model WebUserPersonaldetailsMVC.Models.PersonalDetail
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Create</h1>
+
+<h4>PersonalDetail</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="PersonalId" class="control-label"></label>
+                <input asp-for="PersonalId" class="form-control" />
+                <span asp-validation-for="PersonalId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Dob" class="control-label"></label>
+                <input asp-for="Dob" type="date" class="form-control" />
+                <span asp-validation-for="Dob" class="text-danger"></span>
+            </div>
+           
+            <div class="form-group">
+                <label class="control-label">Gender</label>
+                <div>
+                    <label>
+                        <input asp-for="Gender" type="radio" value="Male" /> Male
+                    </label>
+                    <label>
+                        <input asp-for="Gender" type="radio" value="Female" /> Female
+                    </label>
+                    <label>
+                        <input asp-for="Gender" type="radio" value="Other" /> Other
+                    </label>
+                </div>
+                <span asp-validation-for="Gender" class="text-danger"></span>
+            </div>
+            ```
+            <div class="form-group">
+                <label class="control-label">Hobbies</label>
+                <div>
+                    <label>
+                        <input type="checkbox" name="Hobby" value="Reading" /> Reading
+                    </label>
+                    <br />
+                    <label>
+                        <input type="checkbox" name="Hobby" value="Traveling" /> Traveling
+                    </label>
+                    <br />
+                    <label>
+                        <input type="checkbox" name="Hobby" value="Cooking" /> Cooking
+                    </label>
+                    <br />
+                    <label>
+                        <input type="checkbox" name="Hobby" value="Sports" /> Sports
+                    </label>
+                    <br />
+                    <label>
+                        <input type="checkbox" name="Hobby" value="Music" /> Music
+                    </label>
+                </div>
+                <span class="text-danger" id="hobbyValidationMessage"></span>
+            </div>
+            ```
+            <div class="form-group">
+                <label asp-for="Education" class="control-label"></label>
+                <input asp-for="Education" class="form-control" />
+                <span asp-validation-for="Education" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label class="control-label" for="city">City</label>
+                <select id="city" name="city" class="form-control">
+                    <option value="">Select a city</option>
+                    <option value="New York">New York</option>
+                    <option value="Los Angeles">Los Angeles</option>
+                    <option value="Chicago">Chicago</option>
+                    <option value="Houston">Houston</option>
+                    <option value="Phoenix">Phoenix</option>
+                    <option value="Philadelphia">Philadelphia</option>
+                </select>
+                <span class="text-danger" id="cityValidationMessage"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="UserId" class="control-label"></label>
+                <select asp-for="UserId" class ="form-control" asp-items="ViewBag.UserId"></select>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

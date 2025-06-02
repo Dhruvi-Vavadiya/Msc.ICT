@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Msc_ICT\\Sem2\\C#\\ICT2_72\\Practical_Assignment_2\\Console_FirstQ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8B97416-03F3-4C55-8083-8217CE38C8AE}|Console_FirstQ.csproj|d:\\msc_ict\\sem2\\c#\\ict2_72\\practical_assignment_2\\console_firstq\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8B97416-03F3-4C55-8083-8217CE38C8AE}|Console_FirstQ.csproj|solutionrelative:car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8B97416-03F3-4C55-8083-8217CE38C8AE}|Console_FirstQ.csproj|d:\\msc_ict\\sem2\\c#\\ict2_72\\practical_assignment_2\\console_firstq\\electriccar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8B97416-03F3-4C55-8083-8217CE38C8AE}|Console_FirstQ.csproj|solutionrelative:electriccar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8B97416-03F3-4C55-8083-8217CE38C8AE}|Console_FirstQ.csproj|d:\\msc_ict\\sem2\\c#\\ict2_72\\practical_assignment_2\\console_firstq\\vehical.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8B97416-03F3-4C55-8083-8217CE38C8AE}|Console_FirstQ.csproj|solutionrelative:vehical.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ElectricCar.cs",
+              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\ICT2_72\\Practical_Assignment_2\\Console_FirstQ\\ElectricCar.cs",
+              "RelativeDocumentMoniker": "ElectricCar.cs",
+              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\ICT2_72\\Practical_Assignment_2\\Console_FirstQ\\ElectricCar.cs",
+              "RelativeToolTip": "ElectricCar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T00:03:01.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\ICT2_72\\Practical_Assignment_2\\Console_FirstQ\\Car.cs",
+              "RelativeDocumentMoniker": "Car.cs",
+              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\ICT2_72\\Practical_Assignment_2\\Console_FirstQ\\Car.cs",
+              "RelativeToolTip": "Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T23:57:01.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Vehical.cs",
+              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\ICT2_72\\Practical_Assignment_2\\Console_FirstQ\\Vehical.cs",
+              "RelativeDocumentMoniker": "Vehical.cs",
+              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\ICT2_72\\Practical_Assignment_2\\Console_FirstQ\\Vehical.cs",
+              "RelativeToolTip": "Vehical.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T23:53:16.828Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "wAyd4bv17KTn5FC8cFQbjtKwDVh8y2ihFJgwhde9E+s=",
+  "Source": "InternalExamWebAPI",
+  "BasePath": "_content/InternalExamWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

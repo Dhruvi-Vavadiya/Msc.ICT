@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "ExternalAPI.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\ExternalMVC\\ExternalMVC.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

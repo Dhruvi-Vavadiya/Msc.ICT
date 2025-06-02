@@ -1,0 +1,14 @@
+D:\Msc_ICT\C#\Console\ConsoleAppDelegate\bin\Debug\ConsoleAppDelegate.exe.config
+D:\Msc_ICT\C#\Console\ConsoleAppDelegate\bin\Debug\ConsoleAppDelegate.exe
+D:\Msc_ICT\C#\Console\ConsoleAppDelegate\bin\Debug\ConsoleAppDelegate.pdb
+D:\Msc_ICT\C#\Console\ConsoleAppDelegate\obj\Debug\ConsoleAppDelegate.csproj.AssemblyReference.cache
+D:\Msc_ICT\C#\Console\ConsoleAppDelegate\obj\Debug\ConsoleAppDelegate.csproj.CoreCompileInputs.cache
+D:\Msc_ICT\C#\Console\ConsoleAppDelegate\obj\Debug\ConsoleAppDelegate.exe
+D:\Msc_ICT\C#\Console\ConsoleAppDelegate\obj\Debug\ConsoleAppDelegate.pdb
+D:\Msc_ICT\Sem2\C#\Console\ConsoleAppDelegate\bin\Debug\ConsoleAppDelegate.exe.config
+D:\Msc_ICT\Sem2\C#\Console\ConsoleAppDelegate\bin\Debug\ConsoleAppDelegate.exe
+D:\Msc_ICT\Sem2\C#\Console\ConsoleAppDelegate\bin\Debug\ConsoleAppDelegate.pdb
+D:\Msc_ICT\Sem2\C#\Console\ConsoleAppDelegate\obj\Debug\ConsoleAppDelegate.csproj.AssemblyReference.cache
+D:\Msc_ICT\Sem2\C#\Console\ConsoleAppDelegate\obj\Debug\ConsoleAppDelegate.csproj.CoreCompileInputs.cache
+D:\Msc_ICT\Sem2\C#\Console\ConsoleAppDelegate\obj\Debug\ConsoleAppDelegate.exe
+D:\Msc_ICT\Sem2\C#\Console\ConsoleAppDelegate\obj\Debug\ConsoleAppDelegate.pdb

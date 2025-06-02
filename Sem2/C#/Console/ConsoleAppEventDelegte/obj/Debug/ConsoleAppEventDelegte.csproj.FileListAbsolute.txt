@@ -1,0 +1,14 @@
+D:\Msc_ICT\C#\Console\ConsoleAppEventDelegte\bin\Debug\ConsoleAppEventDelegte.exe.config
+D:\Msc_ICT\C#\Console\ConsoleAppEventDelegte\bin\Debug\ConsoleAppEventDelegte.exe
+D:\Msc_ICT\C#\Console\ConsoleAppEventDelegte\bin\Debug\ConsoleAppEventDelegte.pdb
+D:\Msc_ICT\C#\Console\ConsoleAppEventDelegte\obj\Debug\ConsoleAppEventDelegte.csproj.AssemblyReference.cache
+D:\Msc_ICT\C#\Console\ConsoleAppEventDelegte\obj\Debug\ConsoleAppEventDelegte.csproj.CoreCompileInputs.cache
+D:\Msc_ICT\C#\Console\ConsoleAppEventDelegte\obj\Debug\ConsoleAppEventDelegte.exe
+D:\Msc_ICT\C#\Console\ConsoleAppEventDelegte\obj\Debug\ConsoleAppEventDelegte.pdb
+D:\Msc_ICT\Sem2\C#\Console\ConsoleAppEventDelegte\obj\Debug\ConsoleAppEventDelegte.csproj.AssemblyReference.cache
+D:\Msc_ICT\Sem2\C#\Console\ConsoleAppEventDelegte\obj\Debug\ConsoleAppEventDelegte.csproj.CoreCompileInputs.cache
+D:\Msc_ICT\Sem2\C#\Console\ConsoleAppEventDelegte\obj\Debug\ConsoleAppEventDelegte.exe
+D:\Msc_ICT\Sem2\C#\Console\ConsoleAppEventDelegte\obj\Debug\ConsoleAppEventDelegte.pdb
+D:\Msc_ICT\Sem2\C#\Console\ConsoleAppEventDelegte\bin\Debug\ConsoleAppEventDelegte.exe.config
+D:\Msc_ICT\Sem2\C#\Console\ConsoleAppEventDelegte\bin\Debug\ConsoleAppEventDelegte.exe
+D:\Msc_ICT\Sem2\C#\Console\ConsoleAppEventDelegte\bin\Debug\ConsoleAppEventDelegte.pdb

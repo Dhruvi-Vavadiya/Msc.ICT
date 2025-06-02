@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "WebUserPersonaldetailsMVC\\WebUserPersonaldetailsMVC.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "InternalExamWebAPI\\InternalExamWebAPI.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "WebAppExamMVC\\WebAppExamMVC.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

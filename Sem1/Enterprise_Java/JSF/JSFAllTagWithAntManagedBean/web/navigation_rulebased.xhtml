@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:f="http://java.sun.com/jsf/core"
+      xmlns:h="http://xmlns.jcp.org/jsf/html">
+    <h:head>
+        <title>Facelet Title</title>
+    </h:head>
+    <h:body>
+        <h1>rule based navigation</h1>
+        <h4>used to implement fboth static as well as dynamic navigation</h4>
+        
+        <h:form>
+            <h:panelGrid columns="2" border="1">
+                <f:facet name="header">
+                    <h1><h:outputText value="Login"/></h1>
+                </f:facet>
+                
+                <h:outputLabel value="Name"/>
+                <h:inputText value="#{navigation_rulebased_login.name}"/>
+                
+                <h:outputLabel value="Email"/>
+                <h:inputSecret value="#{navigation_rulebased_login.password}"/>
+                
+                <f:facet name="footer">
+                    <h:commandButton value="Login" action="#{navigation_rulebased_login.checkLogin}"/>
+                </f:facet>
+            </h:panelGrid>
+        </h:form>
+    </h:body>
+</html>

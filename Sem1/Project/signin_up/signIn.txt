@@ -1,0 +1,168 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:h="http://xmlns.jcp.org/jsf/html"
+      xmlns:p="http://primefaces.org/ui"
+      xmlns:f="http://xmlns.jcp.org/jsf/core">
+
+    <h:head>
+        <title>Login Page</title>
+        <link rel="stylesheet" href="./Bootstrap/bootstrap.min.css" type="text/css" />
+        <link href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css" rel="stylesheet"/>
+        <style type="text/css">
+            /* Card container styling */
+            .card-container {
+                position: relative;
+                width: 100%;
+                max-width: 400px;
+                margin: auto;
+                height: 400px;
+                perspective: 1000px;
+            }
+
+            /* Card flip animation */
+            .card {
+                position: absolute;
+                width: 100%;
+                height: 100%;
+                transform-style: preserve-3d;
+                transition: transform 0.6s;
+            }
+
+            .card.flipped {
+                transform: rotateY(180deg);
+            }
+
+            /* Front and back of the card */
+            .card .front, .card .back {
+                position: absolute;
+                width: 100%;
+                height: 100%;
+                backface-visibility: hidden;
+                box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+                border-radius: 10px;
+                background: #f8f9fa;
+                padding: 20px;
+            }
+
+            .card .back {
+                transform: rotateY(180deg);
+            }
+
+            /* Additional styling */
+            .form-title {
+                text-align: center;
+                margin-bottom: 20px;
+                font-weight: bold;
+            }
+
+            .btn-primary, .btn-secondary {
+                margin-top: 10px;
+                width: 100%;
+            }
+        </style>
+    </h:head>
+    <h:body>
+        <h1><h:outputText id="err"  style="color:red;align-content: center" value="#{loginBean.errorStatus}"/></h1>
+        <div class="container mt-5">
+            <div class="row justify-content-center align-items-center vh-75">
+                <!-- Card Container -->
+                <div class="card-container">
+                    <div class="card" id="flipCard">
+
+                        <!-- Front Side: Login Form -->
+                        <div class="front p-4 ">
+                            <h:form>
+                                <div class="form-title">
+                                    <h2>Login</h2>
+                                </div>
+                                <div class="justify-content-center align-items-center">
+                                    
+                                <h:outputText id="err"  style="color:red;" value="#{loginBean.errorStatus}"/>
+                                </div>
+                                <div class="form-group mb-3">
+                                    <p:outputLabel for="username" value="Username:" class="form-label" />
+                                    <p:inputText id="username" value="#{loginBean.username}" class="form-control" />
+                                </div>
+                                <div class="form-group mb-3">
+                                    <p:outputLabel for="password" value="Password:" class="form-label" />
+                                    <p:password id="password" value="#{loginBean.password}" class="form-control" />
+                                </div>
+                                <div class="form-group text-center">
+                                    <p:commandButton value="Login" action="#{loginBean.login()}" class="btn btn-primary" />
+                                </div>
+                                <div class="form-group text-center mt-3">
+                                    <a href="#" onclick="flipCard()">New User? Register</a>
+                                </div>
+                            </h:form>
+                        </div>
+
+                        <!-- Back Side: Signup Form -->
+                        <div class="back p-4">
+                            <h:form>
+                                <div class="form-title">
+                                    <h2>Signup</h2>
+                                </div>
+
+                                <!-- Username -->
+                                <div class="form-group mb-3">
+                                    <p:outputLabel for="usernameSignup" value="Username:" class="form-label" />
+                                    <p:inputText id="usernameSignup" value="#{signupBean.username}" class="form-control" />
+                                </div>
+
+                                <!-- Dropdown -->
+                                <div class="form-group mb-3">
+                                    <p:outputLabel for="dropdown" value="Role:" class="form-label" />
+                                    <p:selectOneMenu id="dropdown" value="#{signupBean.role}" class="form-control">
+                                        <f:selectItem itemLabel="Select Role" itemValue="" />
+                                        <f:selectItem itemLabel="Admin" itemValue="Admin" />
+                                        <f:selectItem itemLabel="User" itemValue="User" />
+                                        <f:selectItem itemLabel="Guest" itemValue="Guest" />
+                                    </p:selectOneMenu>
+                                </div>
+
+                                <!-- Email -->
+                                <div class="form-group mb-3">
+                                    <p:outputLabel for="email" value="Email:" class="form-label" />
+                                    <p:inputText id="email" value="#{signupBean.email}" class="form-control" />
+                                </div>
+
+                                <!-- Phone Number -->
+                                <div class="form-group mb-3">
+                                    <p:outputLabel for="phone" value="Phone Number:" class="form-label" />
+                                    <p:inputText id="phone" value="#{signupBean.phone}" class="form-control" />
+                                </div>
+
+                                <!-- Password -->
+                                <div class="form-group mb-3">
+                                    <p:outputLabel for="passwordSignup" value="Password:" class="form-label" />
+                                    <p:password id="passwordSignup" value="#{signupBean.password}" class="form-control" />
+                                </div>
+
+                                <!-- Signup Button -->
+                                <div class="form-group text-center">
+                                    <p:commandButton value="Signup" class="btn btn-primary w-100" action="#{signupBean.register}" />
+                                </div>
+
+                                <!-- Back to Login -->
+                                <div class="form-group text-center mt-3">
+                                    <a href="#" onclick="flipCard()">Back to Login</a>
+                                </div>
+                            </h:form>
+                        </div>
+
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <script type="text/javascript">
+            function flipCard() {
+                document.getElementById('flipCard').classList.toggle('flipped');
+            }
+        </script>
+        <script type="text/javascript" src="./Bootstrap/bootstrap.min.js"></script>
+    </h:body>
+</html>

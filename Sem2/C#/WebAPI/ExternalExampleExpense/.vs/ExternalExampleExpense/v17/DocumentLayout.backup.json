@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\ExternalExampleExpense\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E2BCFA-339D-42BA-8912-7399C35B4144}|ExampleExpenseAPI\\ExampleExpenseAPI.csproj|d:\\msc_ict\\sem2\\c#\\webapi\\externalexampleexpense\\exampleexpenseapi\\controllers\\einformationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6E2BCFA-339D-42BA-8912-7399C35B4144}|ExampleExpenseAPI\\ExampleExpenseAPI.csproj|solutionrelative:exampleexpenseapi\\controllers\\einformationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E2BCFA-339D-42BA-8912-7399C35B4144}|ExampleExpenseAPI\\ExampleExpenseAPI.csproj|d:\\msc_ict\\sem2\\c#\\webapi\\externalexampleexpense\\exampleexpenseapi\\controllers\\tbluserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6E2BCFA-339D-42BA-8912-7399C35B4144}|ExampleExpenseAPI\\ExampleExpenseAPI.csproj|solutionrelative:exampleexpenseapi\\controllers\\tbluserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CA032F5-6DB0-44EA-985E-E6C37B3B1F7E}|ExternalExpenseMVC\\ExternalExpenseMVC.csproj|d:\\msc_ict\\sem2\\c#\\webapi\\externalexampleexpense\\externalexpensemvc\\models\\tbluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CA032F5-6DB0-44EA-985E-E6C37B3B1F7E}|ExternalExpenseMVC\\ExternalExpenseMVC.csproj|solutionrelative:externalexpensemvc\\models\\tbluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CA032F5-6DB0-44EA-985E-E6C37B3B1F7E}|ExternalExpenseMVC\\ExternalExpenseMVC.csproj|d:\\msc_ict\\sem2\\c#\\webapi\\externalexampleexpense\\externalexpensemvc\\models\\einformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CA032F5-6DB0-44EA-985E-E6C37B3B1F7E}|ExternalExpenseMVC\\ExternalExpenseMVC.csproj|solutionrelative:externalexpensemvc\\models\\einformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E2BCFA-339D-42BA-8912-7399C35B4144}|ExampleExpenseAPI\\ExampleExpenseAPI.csproj|d:\\msc_ict\\sem2\\c#\\webapi\\externalexampleexpense\\exampleexpenseapi\\dto\\tbluserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6E2BCFA-339D-42BA-8912-7399C35B4144}|ExampleExpenseAPI\\ExampleExpenseAPI.csproj|solutionrelative:exampleexpenseapi\\dto\\tbluserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E2BCFA-339D-42BA-8912-7399C35B4144}|ExampleExpenseAPI\\ExampleExpenseAPI.csproj|d:\\msc_ict\\sem2\\c#\\webapi\\externalexampleexpense\\exampleexpenseapi\\dto\\einformationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6E2BCFA-339D-42BA-8912-7399C35B4144}|ExampleExpenseAPI\\ExampleExpenseAPI.csproj|solutionrelative:exampleexpenseapi\\dto\\einformationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E2BCFA-339D-42BA-8912-7399C35B4144}|ExampleExpenseAPI\\ExampleExpenseAPI.csproj|d:\\msc_ict\\sem2\\c#\\webapi\\externalexampleexpense\\exampleexpenseapi\\models\\einformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6E2BCFA-339D-42BA-8912-7399C35B4144}|ExampleExpenseAPI\\ExampleExpenseAPI.csproj|solutionrelative:exampleexpenseapi\\models\\einformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E2BCFA-339D-42BA-8912-7399C35B4144}|ExampleExpenseAPI\\ExampleExpenseAPI.csproj|d:\\msc_ict\\sem2\\c#\\webapi\\externalexampleexpense\\exampleexpenseapi\\models\\tbluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6E2BCFA-339D-42BA-8912-7399C35B4144}|ExampleExpenseAPI\\ExampleExpenseAPI.csproj|solutionrelative:exampleexpenseapi\\models\\tbluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E2BCFA-339D-42BA-8912-7399C35B4144}|ExampleExpenseAPI\\ExampleExpenseAPI.csproj|d:\\msc_ict\\sem2\\c#\\webapi\\externalexampleexpense\\exampleexpenseapi\\models\\expensemangementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6E2BCFA-339D-42BA-8912-7399C35B4144}|ExampleExpenseAPI\\ExampleExpenseAPI.csproj|solutionrelative:exampleexpenseapi\\models\\expensemangementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E2BCFA-339D-42BA-8912-7399C35B4144}|ExampleExpenseAPI\\ExampleExpenseAPI.csproj|d:\\msc_ict\\sem2\\c#\\webapi\\externalexampleexpense\\exampleexpenseapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C6E2BCFA-339D-42BA-8912-7399C35B4144}|ExampleExpenseAPI\\ExampleExpenseAPI.csproj|solutionrelative:exampleexpenseapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E2BCFA-339D-42BA-8912-7399C35B4144}|ExampleExpenseAPI\\ExampleExpenseAPI.csproj|d:\\msc_ict\\sem2\\c#\\webapi\\externalexampleexpense\\exampleexpenseapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6E2BCFA-339D-42BA-8912-7399C35B4144}|ExampleExpenseAPI\\ExampleExpenseAPI.csproj|solutionrelative:exampleexpenseapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EinformationsController.cs",
+              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\ExternalExampleExpense\\ExampleExpenseAPI\\Controllers\\EinformationsController.cs",
+              "RelativeDocumentMoniker": "ExampleExpenseAPI\\Controllers\\EinformationsController.cs",
+              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\ExternalExampleExpense\\ExampleExpenseAPI\\Controllers\\EinformationsController.cs",
+              "RelativeToolTip": "ExampleExpenseAPI\\Controllers\\EinformationsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T16:11:02.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TblUsersController.cs",
+              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\ExternalExampleExpense\\ExampleExpenseAPI\\Controllers\\TblUsersController.cs",
+              "RelativeDocumentMoniker": "ExampleExpenseAPI\\Controllers\\TblUsersController.cs",
+              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\ExternalExampleExpense\\ExampleExpenseAPI\\Controllers\\TblUsersController.cs",
+              "RelativeToolTip": "ExampleExpenseAPI\\Controllers\\TblUsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T16:10:24.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TblUser.cs",
+              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\ExternalExampleExpense\\ExternalExpenseMVC\\Models\\TblUser.cs",
+              "RelativeDocumentMoniker": "ExternalExpenseMVC\\Models\\TblUser.cs",
+              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\ExternalExampleExpense\\ExternalExpenseMVC\\Models\\TblUser.cs",
+              "RelativeToolTip": "ExternalExpenseMVC\\Models\\TblUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T16:08:15.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TblUserDTO.cs",
+              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\ExternalExampleExpense\\ExampleExpenseAPI\\DTO\\TblUserDTO.cs",
+              "RelativeDocumentMoniker": "ExampleExpenseAPI\\DTO\\TblUserDTO.cs",
+              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\ExternalExampleExpense\\ExampleExpenseAPI\\DTO\\TblUserDTO.cs",
+              "RelativeToolTip": "ExampleExpenseAPI\\DTO\\TblUserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T16:08:06.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Einformation.cs",
+              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\ExternalExampleExpense\\ExternalExpenseMVC\\Models\\Einformation.cs",
+              "RelativeDocumentMoniker": "ExternalExpenseMVC\\Models\\Einformation.cs",
+              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\ExternalExampleExpense\\ExternalExpenseMVC\\Models\\Einformation.cs",
+              "RelativeToolTip": "ExternalExpenseMVC\\Models\\Einformation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T16:07:52.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EinformationDTO.cs",
+              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\ExternalExampleExpense\\ExampleExpenseAPI\\DTO\\EinformationDTO.cs",
+              "RelativeDocumentMoniker": "ExampleExpenseAPI\\DTO\\EinformationDTO.cs",
+              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\ExternalExampleExpense\\ExampleExpenseAPI\\DTO\\EinformationDTO.cs",
+              "RelativeToolTip": "ExampleExpenseAPI\\DTO\\EinformationDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T16:07:42.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Einformation.cs",
+              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\ExternalExampleExpense\\ExampleExpenseAPI\\Models\\Einformation.cs",
+              "RelativeDocumentMoniker": "ExampleExpenseAPI\\Models\\Einformation.cs",
+              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\ExternalExampleExpense\\ExampleExpenseAPI\\Models\\Einformation.cs",
+              "RelativeToolTip": "ExampleExpenseAPI\\Models\\Einformation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T16:07:03.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TblUser.cs",
+              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\ExternalExampleExpense\\ExampleExpenseAPI\\Models\\TblUser.cs",
+              "RelativeDocumentMoniker": "ExampleExpenseAPI\\Models\\TblUser.cs",
+              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\ExternalExampleExpense\\ExampleExpenseAPI\\Models\\TblUser.cs",
+              "RelativeToolTip": "ExampleExpenseAPI\\Models\\TblUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T16:06:34.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\ExternalExampleExpense\\ExampleExpenseAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "ExampleExpenseAPI\\appsettings.json",
+              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\ExternalExampleExpense\\ExampleExpenseAPI\\appsettings.json",
+              "RelativeToolTip": "ExampleExpenseAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-26T16:05:44.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\ExternalExampleExpense\\ExampleExpenseAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ExampleExpenseAPI\\Program.cs",
+              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\ExternalExampleExpense\\ExampleExpenseAPI\\Program.cs",
+              "RelativeToolTip": "ExampleExpenseAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T16:03:39.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ExpenseMangementContext.cs",
+              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\ExternalExampleExpense\\ExampleExpenseAPI\\Models\\ExpenseMangementContext.cs",
+              "RelativeDocumentMoniker": "ExampleExpenseAPI\\Models\\ExpenseMangementContext.cs",
+              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\ExternalExampleExpense\\ExampleExpenseAPI\\Models\\ExpenseMangementContext.cs",
+              "RelativeToolTip": "ExampleExpenseAPI\\Models\\ExpenseMangementContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T15:56:24.636Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

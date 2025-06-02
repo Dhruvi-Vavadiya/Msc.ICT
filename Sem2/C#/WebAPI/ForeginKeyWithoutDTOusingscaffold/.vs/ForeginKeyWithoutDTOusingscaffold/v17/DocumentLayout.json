@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\ForeginKeyWithoutDTOusingscaffold\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF222C4C-C5B1-42BC-B820-436573476512}|WebApplication1ExtraForegin\\WebApplication1ExtraForegin.csproj|d:\\msc_ict\\sem2\\c#\\webapi\\foreginkeywithoutdtousingscaffold\\webapplication1extraforegin\\models\\dbclassstudforeginkeycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF222C4C-C5B1-42BC-B820-436573476512}|WebApplication1ExtraForegin\\WebApplication1ExtraForegin.csproj|solutionrelative:webapplication1extraforegin\\models\\dbclassstudforeginkeycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF222C4C-C5B1-42BC-B820-436573476512}|WebApplication1ExtraForegin\\WebApplication1ExtraForegin.csproj|d:\\msc_ict\\sem2\\c#\\webapi\\foreginkeywithoutdtousingscaffold\\webapplication1extraforegin\\models\\studofclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF222C4C-C5B1-42BC-B820-436573476512}|WebApplication1ExtraForegin\\WebApplication1ExtraForegin.csproj|solutionrelative:webapplication1extraforegin\\models\\studofclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF222C4C-C5B1-42BC-B820-436573476512}|WebApplication1ExtraForegin\\WebApplication1ExtraForegin.csproj|d:\\msc_ict\\sem2\\c#\\webapi\\foreginkeywithoutdtousingscaffold\\webapplication1extraforegin\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF222C4C-C5B1-42BC-B820-436573476512}|WebApplication1ExtraForegin\\WebApplication1ExtraForegin.csproj|solutionrelative:webapplication1extraforegin\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF222C4C-C5B1-42BC-B820-436573476512}|WebApplication1ExtraForegin\\WebApplication1ExtraForegin.csproj|d:\\msc_ict\\sem2\\c#\\webapi\\foreginkeywithoutdtousingscaffold\\webapplication1extraforegin\\controllers\\studofclassescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF222C4C-C5B1-42BC-B820-436573476512}|WebApplication1ExtraForegin\\WebApplication1ExtraForegin.csproj|solutionrelative:webapplication1extraforegin\\controllers\\studofclassescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9762E25D-7B4A-4194-8347-313FA6D45BA8}|WebAppExtraForeginMVC\\WebAppExtraForeginMVC.csproj|d:\\msc_ict\\sem2\\c#\\webapi\\foreginkeywithoutdtousingscaffold\\webappextraforeginmvc\\controllers\\studofclasscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9762E25D-7B4A-4194-8347-313FA6D45BA8}|WebAppExtraForeginMVC\\WebAppExtraForeginMVC.csproj|solutionrelative:webappextraforeginmvc\\controllers\\studofclasscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9762E25D-7B4A-4194-8347-313FA6D45BA8}|WebAppExtraForeginMVC\\WebAppExtraForeginMVC.csproj|d:\\msc_ict\\sem2\\c#\\webapi\\foreginkeywithoutdtousingscaffold\\webappextraforeginmvc\\views\\studofclass\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9762E25D-7B4A-4194-8347-313FA6D45BA8}|WebAppExtraForeginMVC\\WebAppExtraForeginMVC.csproj|solutionrelative:webappextraforeginmvc\\views\\studofclass\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DbClassStudForeginkeyContext.cs",
+              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\ForeginKeyWithoutDTOusingscaffold\\WebApplication1ExtraForegin\\Models\\DbClassStudForeginkeyContext.cs",
+              "RelativeDocumentMoniker": "WebApplication1ExtraForegin\\Models\\DbClassStudForeginkeyContext.cs",
+              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\ForeginKeyWithoutDTOusingscaffold\\WebApplication1ExtraForegin\\Models\\DbClassStudForeginkeyContext.cs",
+              "RelativeToolTip": "WebApplication1ExtraForegin\\Models\\DbClassStudForeginkeyContext.cs",
+              "ViewState": "AgIAAAoAAAAAMjMzMzPjvxgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T00:30:42.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Studofclass.cs",
+              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\ForeginKeyWithoutDTOusingscaffold\\WebApplication1ExtraForegin\\Models\\Studofclass.cs",
+              "RelativeDocumentMoniker": "WebApplication1ExtraForegin\\Models\\Studofclass.cs",
+              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\ForeginKeyWithoutDTOusingscaffold\\WebApplication1ExtraForegin\\Models\\Studofclass.cs",
+              "RelativeToolTip": "WebApplication1ExtraForegin\\Models\\Studofclass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T00:30:33.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class.cs",
+              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\ForeginKeyWithoutDTOusingscaffold\\WebApplication1ExtraForegin\\Models\\Class.cs",
+              "RelativeDocumentMoniker": "WebApplication1ExtraForegin\\Models\\Class.cs",
+              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\ForeginKeyWithoutDTOusingscaffold\\WebApplication1ExtraForegin\\Models\\Class.cs",
+              "RelativeToolTip": "WebApplication1ExtraForegin\\Models\\Class.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T00:30:31.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudofclassesController.cs",
+              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\ForeginKeyWithoutDTOusingscaffold\\WebApplication1ExtraForegin\\Controllers\\StudofclassesController.cs",
+              "RelativeDocumentMoniker": "WebApplication1ExtraForegin\\Controllers\\StudofclassesController.cs",
+              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\ForeginKeyWithoutDTOusingscaffold\\WebApplication1ExtraForegin\\Controllers\\StudofclassesController.cs",
+              "RelativeToolTip": "WebApplication1ExtraForegin\\Controllers\\StudofclassesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T00:30:27.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\ForeginKeyWithoutDTOusingscaffold\\WebAppExtraForeginMVC\\Views\\Studofclass\\Delete.cshtml",
+              "RelativeDocumentMoniker": "WebAppExtraForeginMVC\\Views\\Studofclass\\Delete.cshtml",
+              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\ForeginKeyWithoutDTOusingscaffold\\WebAppExtraForeginMVC\\Views\\Studofclass\\Delete.cshtml",
+              "RelativeToolTip": "WebAppExtraForeginMVC\\Views\\Studofclass\\Delete.cshtml",
+              "ViewState": "AgIAABkAAACAMzMzMzMLwCkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-25T16:42:37.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudofclassController.cs",
+              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\ForeginKeyWithoutDTOusingscaffold\\WebAppExtraForeginMVC\\Controllers\\StudofclassController.cs",
+              "RelativeDocumentMoniker": "WebAppExtraForeginMVC\\Controllers\\StudofclassController.cs",
+              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\ForeginKeyWithoutDTOusingscaffold\\WebAppExtraForeginMVC\\Controllers\\StudofclassController.cs",
+              "RelativeToolTip": "WebAppExtraForeginMVC\\Controllers\\StudofclassController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAnwBsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T16:13:08.481Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+﻿    @{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+   
+    
+       
+</div>
+
+<h1>
+    View data
+</h1>
+<ul>
+    @foreach (var std in (List<String>)ViewData["student"]){
+        <li>
+            @std
+        </li>
+        }
+</ul>
+<h1>
+    View data to view bag
+</h1>
+<ul>
+    @foreach (var std in (List<String>)ViewBag.student)
+    {
+        <li>
+            @std
+        </li>
+    }
+</ul>
+
+<div>
+     <h2>
+            @ViewBag.Meassage
+        </h2>
+        <h1>@ViewBag.CurrentDate</h1>
+    <ul>
+    @{
+        foreach(string i in ViewBag.sportlist){
+            <li>@i</li>
+        }
+    }
+    </ul>
+    <ul>
+    @{
+        foreach(string i in ViewBag.Fruits){
+            <li>@i</li>
+        }
+    }
+    </ul>
+    @{
+        var a = ViewBag.emp;
+
+    }   
+    <p>
+        @a.Id
+        @a.Name
+        @a.Designtion
+        </p>
+
+</div>
+
+@{
+    var price = 51;
+}
+@{  
+    var month = "June";  
+    var message = "";  
+}
+<html>
+<body>
+    <h6>
+    @if (price > 50)
+    {
+        <p>The price is  greater than 50.</p>
+    }else{
+        <p>The price is  less than 50.</p>
+    }
+
+    @{  
+        switch (month)   
+        {  
+            case "January":  
+                message = "Startingof Year.";  
+                break;  
+            case "June":  
+                message = "Middle of Year";  
+                break;  
+            case "December":  
+                message = "End of Year";  
+                break;  
+        }
+        <p>@message</p>
+    }
+    @* forloop *@
+    @for (var i = 0; i < 10; i++)
+    {
+        <p>No @i</p>
+    }
+
+    @* for each *@
+        <ul>
+            @foreach (var x in ViewBag.sportlist)
+            {
+                <li>@x</li>
+            }
+        </ul>
+
+        @* razor view *@
+        @{
+            // Array Declaration
+             var nameofDays = new[] { "monday", "tuesday", "wednesday", "thursday", "friday" };
+        }
+        <ul>
+            @foreach (var nameOfDay in nameofDays)
+            {
+                <li>@nameOfDay</li>
+            }
+        </ul>
+
+        <h3>@DateTime.Now.ToString("d")</h3>
+    </h6>
+</body>
+

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:h="http://xmlns.jcp.org/jsf/html"
+      xmlns:f="http://java.sun.com/jsf/core"
+	xmlns:ui="http://java.sun.com/jsf/facelets">
+   <h:head>
+		<title>JSF from action navigation example.</title> 
+	</h:head>
+    <h:body> 
+      <h3>JSF from action navigation example.</h3>
+      <h3>Home Page.</h3>
+	<h:form>
+		<h:commandLink action="#{test.displayTestPage}" value="Test"/>
+		<br/>
+		<h:commandLink action="#{test.displayWelcomePage}" value="Welcome"/>
+	</h:form>
+</h:body>
+</html>

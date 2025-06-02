@@ -1,0 +1,7 @@
+D:\Msc_ICT\Sem2\C#\Console\ConsoleExampleEvent\bin\Debug\ConsoleExampleEvent.exe.config
+D:\Msc_ICT\Sem2\C#\Console\ConsoleExampleEvent\bin\Debug\ConsoleExampleEvent.exe
+D:\Msc_ICT\Sem2\C#\Console\ConsoleExampleEvent\bin\Debug\ConsoleExampleEvent.pdb
+D:\Msc_ICT\Sem2\C#\Console\ConsoleExampleEvent\obj\Debug\ConsoleExampleEvent.csproj.AssemblyReference.cache
+D:\Msc_ICT\Sem2\C#\Console\ConsoleExampleEvent\obj\Debug\ConsoleExampleEvent.csproj.CoreCompileInputs.cache
+D:\Msc_ICT\Sem2\C#\Console\ConsoleExampleEvent\obj\Debug\ConsoleExampleEvent.exe
+D:\Msc_ICT\Sem2\C#\Console\ConsoleExampleEvent\obj\Debug\ConsoleExampleEvent.pdb

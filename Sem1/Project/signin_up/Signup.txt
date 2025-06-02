@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:f="http://xmlns.jcp.org/jsf/core"
+      xmlns:p="http://primefaces.org/ui"
+      xmlns:h="http://xmlns.jcp.org/jsf/html">
+
+    <h:head>
+        <title>Login Page</title>
+        <link rel="stylesheet" href="./Bootstrap/bootstrap.min.css" type="text/css"/>
+        <!--        <style type="text/css">
+                    div{
+                        color:red;
+                        background-color: darkcyan;
+                    }
+                </style>
+                <script type="text/javascript" >
+                    function say() {
+                        alert("hello welcome");
+                    }
+                </script>-->
+    </h:head>
+
+    <h:body>
+
+        <div>
+            <div class="container">
+                <div class="row shadow-lg p-5 my-5 rounded-3">
+                    <div class="col-lg-6">
+                        <h:graphicImage value="https://png.pngtree.com/png-clipart/20220222/original/pngtree-man-waiter-tray-with-food-and-drink-in-restaurant-png-image_7299081.png" 
+                                        styleClass="img-fluid h-100 w-100" alt="image is loaded" />
+                    </div>
+                    <div class="col-lg-6">
+                        <!-- Removed anchor for Sign In -->
+                        <h1 class="text-center text-uppercase">Sign UP</h1>
+                        <h3 class="text-muted text-center">Create your account</h3>
+
+                        <!-- JSF form -->
+                        <h:form>
+                            <div class="row">
+                                <!-- First Name -->
+                                <div class="col-lg-6 col-sm-12">
+                                    <div class="form-group">
+                                        <h:outputLabel for="firstName" value="First name:" class="form-label"/>
+                                        <p:inputText value="#{userBean.userName}" type="text" id="firstName" class="form-control form-control-lg" required="true"/>
+                                    </div>
+                                </div>
+
+                                <!-- Last Name -->
+                                <div class="col-lg-6 col-sm-12">
+                                    <div class="form-group">
+                                        <h:outputLabel for="lastName" value="Last name:" class="form-label"/>
+                                        <p:inputText value="dfd" type="text" id="lastName" class="form-control form-control-lg" required="true"/>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <h:outputLabel for="Group" value="Group ::" class="form-label"/>
+                                <div class="col-12">
+                                    <div class="">
+                                        <p:selectOneMenu id="groupid" value="#{userBean.groupId}" class="form-control">
+                                             <f:selectItem itemLabel="-----Select Any One Category------" itemValue="" />
+                                             <f:selectItems value="#{userBean.groupmaster}"  var="g" itemLabel="#{g.groupName}" itemValue="#{g.groupId}"/>
+                                         <f:validateRequired />
+                                        </p:selectOneMenu>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <h:outputLabel for="Email" value="Email:" class="form-label"/>
+                                <div class="col-12">
+                                    <div class="form-group">
+                                        <p:inputText value="#{userBean.email}" type="email" id="email" class="form-control form-control-lg" required="true"/>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <h:outputLabel for="Password" value="Password:" class="form-label"/>
+                                <div class="col-12">
+                                    <div class="form-group">
+                                        <h:inputText value="#{userBean.password}" id="pwd" class="form-control form-control-lg" required="true">
+                                            
+                                             <f:converter converterId="passwordconvertoer"/>
+                                        </h:inputText>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <h:outputLabel for="mobileno" value="Mobile No:" class="form-label"/>
+                                <div class="col-12">
+                                    <div class="form-group">
+                                        <!--<p:inputText type="text" id="mno" class="form-control form-control-lg" required="true"/>-->
+                                        <p:inputMask value="#{userBean.mobileno}" id="mno" type="text" class="form-control form-control-lg" mask="99999 99999" required="true"/>  
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Submit Button -->
+                            <div class="row">
+                                <div class="col-12">
+                                    <!--<button type="button" class="btn btn-primary btn-block">Full-Width Button</button>-->
+                                    <h:commandButton action="#{userBean.addUserMaster()}" value="Sign Up" class="btn btn-primary btn-block mt-3" />
+                                    <!--<p:selectBooleanButton id="bol" value="" class="btn btn-primary btn-block" onLabel="Suucess" offLabel="Submit"  onIcon="ui-icon-check" offIcon="ui-icon-close"/>--> 
+                                </div>
+                            </div>
+
+                           
+                        </h:form>
+                        <h1><h:outputText value="#{userBean.message}" rendered="#{not empty userBean.message}" styleClass="text-success fw-bold" />
+             </h1>       </div>
+                </div>
+            </div>
+        </div>
+        <script type="text/javascript" src="./Bootstrap/bootstrap.min.js"></script>
+    </h:body>
+</html>
+

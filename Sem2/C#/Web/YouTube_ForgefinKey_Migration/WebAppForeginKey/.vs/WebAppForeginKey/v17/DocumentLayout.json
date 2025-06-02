@@ -1,0 +1,272 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Msc_ICT\\Sem2\\C#\\Web\\WebAppForeginKey\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9EC42DA-78A3-4FFF-8F61-093B4B798E98}|WebAppForeginKey.csproj|d:\\msc_ict\\sem2\\c#\\web\\webappforeginkey\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9EC42DA-78A3-4FFF-8F61-093B4B798E98}|WebAppForeginKey.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9EC42DA-78A3-4FFF-8F61-093B4B798E98}|WebAppForeginKey.csproj|d:\\msc_ict\\sem2\\c#\\web\\webappforeginkey\\migrations\\mycontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9EC42DA-78A3-4FFF-8F61-093B4B798E98}|WebAppForeginKey.csproj|solutionrelative:migrations\\mycontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9EC42DA-78A3-4FFF-8F61-093B4B798E98}|WebAppForeginKey.csproj|d:\\msc_ict\\sem2\\c#\\web\\webappforeginkey\\migrations\\20250312130819_my.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9EC42DA-78A3-4FFF-8F61-093B4B798E98}|WebAppForeginKey.csproj|solutionrelative:migrations\\20250312130819_my.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9EC42DA-78A3-4FFF-8F61-093B4B798E98}|WebAppForeginKey.csproj|d:\\msc_ict\\sem2\\c#\\web\\webappforeginkey\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9EC42DA-78A3-4FFF-8F61-093B4B798E98}|WebAppForeginKey.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9EC42DA-78A3-4FFF-8F61-093B4B798E98}|WebAppForeginKey.csproj|d:\\msc_ict\\sem2\\c#\\web\\webappforeginkey\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B9EC42DA-78A3-4FFF-8F61-093B4B798E98}|WebAppForeginKey.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9EC42DA-78A3-4FFF-8F61-093B4B798E98}|WebAppForeginKey.csproj|d:\\msc_ict\\sem2\\c#\\web\\webappforeginkey\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{B9EC42DA-78A3-4FFF-8F61-093B4B798E98}|WebAppForeginKey.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9EC42DA-78A3-4FFF-8F61-093B4B798E98}|WebAppForeginKey.csproj|d:\\msc_ict\\sem2\\c#\\web\\webappforeginkey\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9EC42DA-78A3-4FFF-8F61-093B4B798E98}|WebAppForeginKey.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9EC42DA-78A3-4FFF-8F61-093B4B798E98}|WebAppForeginKey.csproj|d:\\msc_ict\\sem2\\c#\\web\\webappforeginkey\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9EC42DA-78A3-4FFF-8F61-093B4B798E98}|WebAppForeginKey.csproj|solutionrelative:views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9EC42DA-78A3-4FFF-8F61-093B4B798E98}|WebAppForeginKey.csproj|d:\\msc_ict\\sem2\\c#\\web\\webappforeginkey\\views\\student\\addstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9EC42DA-78A3-4FFF-8F61-093B4B798E98}|WebAppForeginKey.csproj|solutionrelative:views\\student\\addstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9EC42DA-78A3-4FFF-8F61-093B4B798E98}|WebAppForeginKey.csproj|d:\\msc_ict\\sem2\\c#\\web\\webappforeginkey\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9EC42DA-78A3-4FFF-8F61-093B4B798E98}|WebAppForeginKey.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9EC42DA-78A3-4FFF-8F61-093B4B798E98}|WebAppForeginKey.csproj|d:\\msc_ict\\sem2\\c#\\web\\webappforeginkey\\models\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9EC42DA-78A3-4FFF-8F61-093B4B798E98}|WebAppForeginKey.csproj|solutionrelative:models\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9EC42DA-78A3-4FFF-8F61-093B4B798E98}|WebAppForeginKey.csproj|d:\\msc_ict\\sem2\\c#\\web\\webappforeginkey\\models\\mycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9EC42DA-78A3-4FFF-8F61-093B4B798E98}|WebAppForeginKey.csproj|solutionrelative:models\\mycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9EC42DA-78A3-4FFF-8F61-093B4B798E98}|WebAppForeginKey.csproj|d:\\msc_ict\\sem2\\c#\\web\\webappforeginkey\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B9EC42DA-78A3-4FFF-8F61-093B4B798E98}|WebAppForeginKey.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9EC42DA-78A3-4FFF-8F61-093B4B798E98}|WebAppForeginKey.csproj|d:\\msc_ict\\sem2\\c#\\web\\webappforeginkey\\views\\student\\addskill.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9EC42DA-78A3-4FFF-8F61-093B4B798E98}|WebAppForeginKey.csproj|solutionrelative:views\\student\\addskill.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9EC42DA-78A3-4FFF-8F61-093B4B798E98}|WebAppForeginKey.csproj|d:\\msc_ict\\sem2\\c#\\web\\webappforeginkey\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9EC42DA-78A3-4FFF-8F61-093B4B798E98}|WebAppForeginKey.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1339,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\Web\\WebAppForeginKey\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\Web\\WebAppForeginKey\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-12T17:05:35.369Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "mycontextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\Web\\WebAppForeginKey\\Migrations\\mycontextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\mycontextModelSnapshot.cs",
+              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\Web\\WebAppForeginKey\\Migrations\\mycontextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\mycontextModelSnapshot.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T09:19:00.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "site.js",
+              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\Web\\WebAppForeginKey\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
+              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\Web\\WebAppForeginKey\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-12T17:26:05.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\Web\\WebAppForeginKey\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\Web\\WebAppForeginKey\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-12T17:07:49.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\Web\\WebAppForeginKey\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Student\\Index.cshtml",
+              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\Web\\WebAppForeginKey\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAAAYAAABwZmZmZmYkwAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-12T14:04:56.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddStudent.cshtml",
+              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\Web\\WebAppForeginKey\\Views\\Student\\AddStudent.cshtml",
+              "RelativeDocumentMoniker": "Views\\Student\\AddStudent.cshtml",
+              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\Web\\WebAppForeginKey\\Views\\Student\\AddStudent.cshtml",
+              "RelativeToolTip": "Views\\Student\\AddStudent.cshtml",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAACYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-12T13:16:34.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\Web\\WebAppForeginKey\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
+              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\Web\\WebAppForeginKey\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T12:39:09.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250312130819_my.cs",
+              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\Web\\WebAppForeginKey\\Migrations\\20250312130819_my.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250312130819_my.cs",
+              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\Web\\WebAppForeginKey\\Migrations\\20250312130819_my.cs",
+              "RelativeToolTip": "Migrations\\20250312130819_my.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T09:18:49.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AddSkill.cshtml",
+              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\Web\\WebAppForeginKey\\Views\\Student\\AddSkill.cshtml",
+              "RelativeDocumentMoniker": "Views\\Student\\AddSkill.cshtml",
+              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\Web\\WebAppForeginKey\\Views\\Student\\AddSkill.cshtml",
+              "RelativeToolTip": "Views\\Student\\AddSkill.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-12T13:10:53.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\Web\\WebAppForeginKey\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\Web\\WebAppForeginKey\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAABQAAAAgMzMzMzMhwB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T17:28:19.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\Web\\WebAppForeginKey\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\Web\\WebAppForeginKey\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T12:30:21.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "mycontext.cs",
+              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\Web\\WebAppForeginKey\\Models\\mycontext.cs",
+              "RelativeDocumentMoniker": "Models\\mycontext.cs",
+              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\Web\\WebAppForeginKey\\Models\\mycontext.cs",
+              "RelativeToolTip": "Models\\mycontext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T12:25:39.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "student.cs",
+              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\Web\\WebAppForeginKey\\Models\\student.cs",
+              "RelativeDocumentMoniker": "Models\\student.cs",
+              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\Web\\WebAppForeginKey\\Models\\student.cs",
+              "RelativeToolTip": "Models\\student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T12:23:23.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\Web\\WebAppForeginKey\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\Web\\WebAppForeginKey\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-12T12:18:20.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "skill.cs",
+              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\Web\\WebAppForeginKey\\Models\\skill.cs",
+              "RelativeDocumentMoniker": "Models\\skill.cs",
+              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\Web\\WebAppForeginKey\\Models\\skill.cs",
+              "RelativeToolTip": "Models\\skill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T12:13:42.947Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

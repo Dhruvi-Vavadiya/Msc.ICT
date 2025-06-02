@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Msc_ICT\\Sem2\\C#\\ICT2-2025DemoProjects-main\\ICT2StudentManagementWithWebAPITestCS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD3ECDE2-E6E9-41F9-A6F9-B6D8CF892D71}|ICT2StudentManagementAPIConsumerCS\\ICT2StudentManagementAPIConsumerCS.csproj|d:\\msc_ict\\sem2\\c#\\ict2-2025demoprojects-main\\ict2studentmanagementwithwebapitestcs\\ict2studentmanagementapiconsumercs\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD3ECDE2-E6E9-41F9-A6F9-B6D8CF892D71}|ICT2StudentManagementAPIConsumerCS\\ICT2StudentManagementAPIConsumerCS.csproj|solutionrelative:ict2studentmanagementapiconsumercs\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7ABDEDC-2D83-4924-86E2-B543A3CB5890}|ICT2StudentDemoWebAPICS\\ICT2StudentDemoWebAPICS.csproj|d:\\msc_ict\\sem2\\c#\\ict2-2025demoprojects-main\\ict2studentmanagementwithwebapitestcs\\ict2studentdemowebapics\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F7ABDEDC-2D83-4924-86E2-B543A3CB5890}|ICT2StudentDemoWebAPICS\\ICT2StudentDemoWebAPICS.csproj|solutionrelative:ict2studentdemowebapics\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7ABDEDC-2D83-4924-86E2-B543A3CB5890}|ICT2StudentDemoWebAPICS\\ICT2StudentDemoWebAPICS.csproj|d:\\msc_ict\\sem2\\c#\\ict2-2025demoprojects-main\\ict2studentmanagementwithwebapitestcs\\ict2studentdemowebapics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7ABDEDC-2D83-4924-86E2-B543A3CB5890}|ICT2StudentDemoWebAPICS\\ICT2StudentDemoWebAPICS.csproj|solutionrelative:ict2studentdemowebapics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7ABDEDC-2D83-4924-86E2-B543A3CB5890}|ICT2StudentDemoWebAPICS\\ICT2StudentDemoWebAPICS.csproj|d:\\msc_ict\\sem2\\c#\\ict2-2025demoprojects-main\\ict2studentmanagementwithwebapitestcs\\ict2studentdemowebapics\\ict2studentdemowebapics.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{F7ABDEDC-2D83-4924-86E2-B543A3CB5890}|ICT2StudentDemoWebAPICS\\ICT2StudentDemoWebAPICS.csproj|solutionrelative:ict2studentdemowebapics\\ict2studentdemowebapics.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7ABDEDC-2D83-4924-86E2-B543A3CB5890}|ICT2StudentDemoWebAPICS\\ICT2StudentDemoWebAPICS.csproj|d:\\msc_ict\\sem2\\c#\\ict2-2025demoprojects-main\\ict2studentmanagementwithwebapitestcs\\ict2studentdemowebapics\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7ABDEDC-2D83-4924-86E2-B543A3CB5890}|ICT2StudentDemoWebAPICS\\ICT2StudentDemoWebAPICS.csproj|solutionrelative:ict2studentdemowebapics\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7ABDEDC-2D83-4924-86E2-B543A3CB5890}|ICT2StudentDemoWebAPICS\\ICT2StudentDemoWebAPICS.csproj|d:\\msc_ict\\sem2\\c#\\ict2-2025demoprojects-main\\ict2studentmanagementwithwebapitestcs\\ict2studentdemowebapics\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7ABDEDC-2D83-4924-86E2-B543A3CB5890}|ICT2StudentDemoWebAPICS\\ICT2StudentDemoWebAPICS.csproj|solutionrelative:ict2studentdemowebapics\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7ABDEDC-2D83-4924-86E2-B543A3CB5890}|ICT2StudentDemoWebAPICS\\ICT2StudentDemoWebAPICS.csproj|d:\\msc_ict\\sem2\\c#\\ict2-2025demoprojects-main\\ict2studentmanagementwithwebapitestcs\\ict2studentdemowebapics\\models\\ict2studentmanagementdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7ABDEDC-2D83-4924-86E2-B543A3CB5890}|ICT2StudentDemoWebAPICS\\ICT2StudentDemoWebAPICS.csproj|solutionrelative:ict2studentdemowebapics\\models\\ict2studentmanagementdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7ABDEDC-2D83-4924-86E2-B543A3CB5890}|ICT2StudentDemoWebAPICS\\ICT2StudentDemoWebAPICS.csproj|d:\\msc_ict\\sem2\\c#\\ict2-2025demoprojects-main\\ict2studentmanagementwithwebapitestcs\\ict2studentdemowebapics\\controllers\\subjectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7ABDEDC-2D83-4924-86E2-B543A3CB5890}|ICT2StudentDemoWebAPICS\\ICT2StudentDemoWebAPICS.csproj|solutionrelative:ict2studentdemowebapics\\controllers\\subjectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7ABDEDC-2D83-4924-86E2-B543A3CB5890}|ICT2StudentDemoWebAPICS\\ICT2StudentDemoWebAPICS.csproj|d:\\msc_ict\\sem2\\c#\\ict2-2025demoprojects-main\\ict2studentmanagementwithwebapitestcs\\ict2studentdemowebapics\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7ABDEDC-2D83-4924-86E2-B543A3CB5890}|ICT2StudentDemoWebAPICS\\ICT2StudentDemoWebAPICS.csproj|solutionrelative:ict2studentdemowebapics\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\ICT2-2025DemoProjects-main\\ICT2StudentManagementWithWebAPITestCS\\ICT2StudentDemoWebAPICS\\Models\\Subject.cs",
+              "RelativeDocumentMoniker": "ICT2StudentDemoWebAPICS\\Models\\Subject.cs",
+              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\ICT2-2025DemoProjects-main\\ICT2StudentManagementWithWebAPITestCS\\ICT2StudentDemoWebAPICS\\Models\\Subject.cs",
+              "RelativeToolTip": "ICT2StudentDemoWebAPICS\\Models\\Subject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T16:03:13.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\ICT2-2025DemoProjects-main\\ICT2StudentManagementWithWebAPITestCS\\ICT2StudentDemoWebAPICS\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "ICT2StudentDemoWebAPICS\\Models\\Student.cs",
+              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\ICT2-2025DemoProjects-main\\ICT2StudentManagementWithWebAPITestCS\\ICT2StudentDemoWebAPICS\\Models\\Student.cs",
+              "RelativeToolTip": "ICT2StudentDemoWebAPICS\\Models\\Student.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T16:03:05.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Ict2studentManagementDbContext.cs",
+              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\ICT2-2025DemoProjects-main\\ICT2StudentManagementWithWebAPITestCS\\ICT2StudentDemoWebAPICS\\Models\\Ict2studentManagementDbContext.cs",
+              "RelativeDocumentMoniker": "ICT2StudentDemoWebAPICS\\Models\\Ict2studentManagementDbContext.cs",
+              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\ICT2-2025DemoProjects-main\\ICT2StudentManagementWithWebAPITestCS\\ICT2StudentDemoWebAPICS\\Models\\Ict2studentManagementDbContext.cs",
+              "RelativeToolTip": "ICT2StudentDemoWebAPICS\\Models\\Ict2studentManagementDbContext.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T16:02:54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SubjectsController.cs",
+              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\ICT2-2025DemoProjects-main\\ICT2StudentManagementWithWebAPITestCS\\ICT2StudentDemoWebAPICS\\Controllers\\SubjectsController.cs",
+              "RelativeDocumentMoniker": "ICT2StudentDemoWebAPICS\\Controllers\\SubjectsController.cs",
+              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\ICT2-2025DemoProjects-main\\ICT2StudentManagementWithWebAPITestCS\\ICT2StudentDemoWebAPICS\\Controllers\\SubjectsController.cs",
+              "RelativeToolTip": "ICT2StudentDemoWebAPICS\\Controllers\\SubjectsController.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T16:02:46.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\ICT2-2025DemoProjects-main\\ICT2StudentManagementWithWebAPITestCS\\ICT2StudentDemoWebAPICS\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "ICT2StudentDemoWebAPICS\\Controllers\\StudentsController.cs",
+              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\ICT2-2025DemoProjects-main\\ICT2StudentManagementWithWebAPITestCS\\ICT2StudentDemoWebAPICS\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "ICT2StudentDemoWebAPICS\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T16:02:19.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\ICT2-2025DemoProjects-main\\ICT2StudentManagementWithWebAPITestCS\\ICT2StudentManagementAPIConsumerCS\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "ICT2StudentManagementAPIConsumerCS\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\ICT2-2025DemoProjects-main\\ICT2StudentManagementWithWebAPITestCS\\ICT2StudentManagementAPIConsumerCS\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "ICT2StudentManagementAPIConsumerCS\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAABYAAADAzMzMzMwuwDcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T08:19:46.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICT2StudentDemoWebAPICS.http",
+              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\ICT2-2025DemoProjects-main\\ICT2StudentManagementWithWebAPITestCS\\ICT2StudentDemoWebAPICS\\ICT2StudentDemoWebAPICS.http",
+              "RelativeDocumentMoniker": "ICT2StudentDemoWebAPICS\\ICT2StudentDemoWebAPICS.http",
+              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\ICT2-2025DemoProjects-main\\ICT2StudentManagementWithWebAPITestCS\\ICT2StudentDemoWebAPICS\\ICT2StudentDemoWebAPICS.http",
+              "RelativeToolTip": "ICT2StudentDemoWebAPICS\\ICT2StudentDemoWebAPICS.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-03-21T16:03:45.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\ICT2-2025DemoProjects-main\\ICT2StudentManagementWithWebAPITestCS\\ICT2StudentDemoWebAPICS\\Program.cs",
+              "RelativeDocumentMoniker": "ICT2StudentDemoWebAPICS\\Program.cs",
+              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\ICT2-2025DemoProjects-main\\ICT2StudentManagementWithWebAPITestCS\\ICT2StudentDemoWebAPICS\\Program.cs",
+              "RelativeToolTip": "ICT2StudentDemoWebAPICS\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T16:03:57.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\ICT2-2025DemoProjects-main\\ICT2StudentManagementWithWebAPITestCS\\ICT2StudentDemoWebAPICS\\appsettings.json",
+              "RelativeDocumentMoniker": "ICT2StudentDemoWebAPICS\\appsettings.json",
+              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\ICT2-2025DemoProjects-main\\ICT2StudentManagementWithWebAPITestCS\\ICT2StudentDemoWebAPICS\\appsettings.json",
+              "RelativeToolTip": "ICT2StudentDemoWebAPICS\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-21T16:04:03.11Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

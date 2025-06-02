@@ -1,0 +1,24 @@
+﻿@model IEnumerable<MVCWebApp.Models.Employee>
+@{
+	ViewData["Title"] = "ListObj";
+	var des = Model.Select(e => e.Designtion).Distinct().ToList();
+}
+
+<h1>ListObj</h1>
+
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+	<div>
+		<select name="">
+			@foreach(var i in des){
+				<option value="@i">@i</option>
+			}
+		</select>
+	</div>
+</body>
+</html>

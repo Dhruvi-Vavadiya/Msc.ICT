@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:f="http://java.sun.com/jsf/core"
+      xmlns:h="http://xmlns.jcp.org/jsf/html">
+    <h:head>
+        <title>Facelet Title</title>
+    </h:head>
+    <h:body>
+        <h2>JSF add data to data table example.</h2>
+<h:form>
+    <h:dataTable value="#{add_studentDetails.students}" var="student">
+	<h:column>
+		<f:facet name="header">Name</f:facet>   	
+          #{student.name}
+       </h:column>
+	<h:column>
+		<f:facet name="header">Class</f:facet>
+          #{student.SClass}
+       </h:column>
+	<h:column>
+		<f:facet name="header">RollNo</f:facet>
+          #{student.rno}
+       </h:column>
+	<h:column>
+		<f:facet name="header">Age</f:facet>
+          #{student.age}
+       </h:column>
+</h:dataTable>
+ 
+<h3>Add Employee</h3>
+<hr />
+<table>
+	<tr>
+		<td>Name:</td>
+		<td><h:inputText size="15" value="#{add_studentDetails.name}" /></td>
+	</tr>
+	<tr>
+		<td>Class:</td>
+                <td><h:inputText size="15" value="#{add_studentDetails.SClass}" /></td>
+	</tr>
+	<tr>
+		<td>RollNo:</td>
+                <td><h:inputText size="10" value="#{add_studentDetails.rno}" /></td>
+	</tr>
+	<tr>
+		<td>Age:</td>
+		<td><h:inputText size="3" value="#{add_studentDetails.age}" /></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td><h:commandButton value="Add Student"
+			action="#{add_studentDetails.addStudent}" /></td>
+	</tr>
+</table>
+ 
+</h:form>
+    </h:body>
+</html>

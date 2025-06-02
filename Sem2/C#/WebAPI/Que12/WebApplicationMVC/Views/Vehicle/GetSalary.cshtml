@@ -1,0 +1,42 @@
+﻿@using Microsoft.AspNetCore.Http;
+@inject IHttpContextAccessor HttpContextAccessor
+@{
+    ViewData["Title"] = "GetSalary";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>GetSalary</h1>
+
+
+<h4>@HttpContextAccessor.HttpContext.Session.GetString("fin")</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div class="row">
+                <div>
+                    <input type="text" name="basic" id="basic" class="form-control"/>  
+                </div>
+                <div>
+                    <input type="text" name="da" id="basic" class="form-control"/>  
+                </div>
+                <div>
+                    <input type="text" name="ta" id="basic" class="form-control" />
+                </div>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+
+
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

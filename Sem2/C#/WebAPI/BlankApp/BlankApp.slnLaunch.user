@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "WebApplicationMVC\\WebApplicationMVC.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "WebApplicationAPI\\WebApplicationAPI.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "WindowsFormsApp1\\WindowsFormsApp1.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

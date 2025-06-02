@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:ui="http://xmlns.jcp.org/jsf/facelets"
+    xmlns:h="http://xmlns.jcp.org/jsf/html">
+    <h:head>
+        <title>Facelet Title</title>
+        <style type="text/css">
+            .formate{
+                color:red;
+                background-color: darkcyan;
+            }
+        </style>
+        <!--<link rel="stylesheet" href="./Css/style.css" type="text/css"/>-->
+        <h:outputStylesheet library="css" name="./Css/style.css" />
+    </h:head>
+    <h:body>
+        <div>
+            <ui:composition template="template.xhtml">
+                <ui:define name="firstcontent">
+                    <h:form>
+                        Name :: <h:inputText style="color: green;"/>
+                        <h:commandButton value="click me" style="font-size: large;background-color:  yellow ;"/>
+
+                        Father's name :: <h:inputText styleClass="formate"/>
+                        Mother's name :: <h:inputText styleClass="myformate"/>
+                    </h:form>
+                </ui:define>
+            </ui:composition>
+        </div>
+
+    </h:body>
+</html>

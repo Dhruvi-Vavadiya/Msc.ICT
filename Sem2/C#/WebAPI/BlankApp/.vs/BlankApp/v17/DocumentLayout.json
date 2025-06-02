@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\BlankApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34485817-585A-423A-84C6-3B0110B10AAD}|WebApplicationAPI\\WebApplicationAPI.csproj|d:\\msc_ict\\sem2\\c#\\webapi\\blankapp\\webapplicationapi\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34485817-585A-423A-84C6-3B0110B10AAD}|WebApplicationAPI\\WebApplicationAPI.csproj|solutionrelative:webapplicationapi\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34485817-585A-423A-84C6-3B0110B10AAD}|WebApplicationAPI\\WebApplicationAPI.csproj|d:\\msc_ict\\sem2\\c#\\webapi\\blankapp\\webapplicationapi\\models\\genericimplement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34485817-585A-423A-84C6-3B0110B10AAD}|WebApplicationAPI\\WebApplicationAPI.csproj|solutionrelative:webapplicationapi\\models\\genericimplement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34485817-585A-423A-84C6-3B0110B10AAD}|WebApplicationAPI\\WebApplicationAPI.csproj|d:\\msc_ict\\sem2\\c#\\webapi\\blankapp\\webapplicationapi\\models\\igenericsclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34485817-585A-423A-84C6-3B0110B10AAD}|WebApplicationAPI\\WebApplicationAPI.csproj|solutionrelative:webapplicationapi\\models\\igenericsclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C96DE8B-5CD4-45FD-8CD1-817FDDDA34C7}|WebApplicationMVC\\WebApplicationMVC.csproj|d:\\msc_ict\\sem2\\c#\\webapi\\blankapp\\webapplicationmvc\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C96DE8B-5CD4-45FD-8CD1-817FDDDA34C7}|WebApplicationMVC\\WebApplicationMVC.csproj|solutionrelative:webapplicationmvc\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C96DE8B-5CD4-45FD-8CD1-817FDDDA34C7}|WebApplicationMVC\\WebApplicationMVC.csproj|d:\\msc_ict\\sem2\\c#\\webapi\\blankapp\\webapplicationmvc\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C96DE8B-5CD4-45FD-8CD1-817FDDDA34C7}|WebApplicationMVC\\WebApplicationMVC.csproj|solutionrelative:webapplicationmvc\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C96DE8B-5CD4-45FD-8CD1-817FDDDA34C7}|WebApplicationMVC\\WebApplicationMVC.csproj|d:\\msc_ict\\sem2\\c#\\webapi\\blankapp\\webapplicationmvc\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C96DE8B-5CD4-45FD-8CD1-817FDDDA34C7}|WebApplicationMVC\\WebApplicationMVC.csproj|solutionrelative:webapplicationmvc\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34485817-585A-423A-84C6-3B0110B10AAD}|WebApplicationAPI\\WebApplicationAPI.csproj|d:\\msc_ict\\sem2\\c#\\webapi\\blankapp\\webapplicationapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{34485817-585A-423A-84C6-3B0110B10AAD}|WebApplicationAPI\\WebApplicationAPI.csproj|solutionrelative:webapplicationapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C96DE8B-5CD4-45FD-8CD1-817FDDDA34C7}|WebApplicationMVC\\WebApplicationMVC.csproj|d:\\msc_ict\\sem2\\c#\\webapi\\blankapp\\webapplicationmvc\\views\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C96DE8B-5CD4-45FD-8CD1-817FDDDA34C7}|WebApplicationMVC\\WebApplicationMVC.csproj|solutionrelative:webapplicationmvc\\views\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1339,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\BlankApp\\WebApplicationAPI\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "WebApplicationAPI\\Controllers\\StudentsController.cs",
+              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\BlankApp\\WebApplicationAPI\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "WebApplicationAPI\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAAgAAABAMzMzMzMbwBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T16:46:30.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GenericImplement.cs",
+              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\BlankApp\\WebApplicationAPI\\Models\\GenericImplement.cs",
+              "RelativeDocumentMoniker": "WebApplicationAPI\\Models\\GenericImplement.cs",
+              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\BlankApp\\WebApplicationAPI\\Models\\GenericImplement.cs",
+              "RelativeToolTip": "WebApplicationAPI\\Models\\GenericImplement.cs",
+              "ViewState": "AgIAAAAAAABAZmZmZmYkwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T16:42:35.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IGenericsClass.cs",
+              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\BlankApp\\WebApplicationAPI\\Models\\IGenericsClass.cs",
+              "RelativeDocumentMoniker": "WebApplicationAPI\\Models\\IGenericsClass.cs",
+              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\BlankApp\\WebApplicationAPI\\Models\\IGenericsClass.cs",
+              "RelativeToolTip": "WebApplicationAPI\\Models\\IGenericsClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T16:41:29.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\BlankApp\\WebApplicationMVC\\Views\\Students\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationMVC\\Views\\Students\\Index.cshtml",
+              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\BlankApp\\WebApplicationMVC\\Views\\Students\\Index.cshtml",
+              "RelativeToolTip": "WebApplicationMVC\\Views\\Students\\Index.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADYAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-08T06:53:54.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\BlankApp\\WebApplicationMVC\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "WebApplicationMVC\\Controllers\\StudentsController.cs",
+              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\BlankApp\\WebApplicationMVC\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "WebApplicationMVC\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAwHIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T06:40:15.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\BlankApp\\WebApplicationMVC\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "WebApplicationMVC\\Models\\Student.cs",
+              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\BlankApp\\WebApplicationMVC\\Models\\Student.cs",
+              "RelativeToolTip": "WebApplicationMVC\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T06:38:26.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\BlankApp\\WebApplicationMVC\\Views\\Students\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationMVC\\Views\\Students\\Edit.cshtml",
+              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\BlankApp\\WebApplicationMVC\\Views\\Students\\Edit.cshtml",
+              "RelativeToolTip": "WebApplicationMVC\\Views\\Students\\Edit.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-08T16:16:57.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\BlankApp\\WebApplicationAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplicationAPI\\appsettings.json",
+              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\BlankApp\\WebApplicationAPI\\appsettings.json",
+              "RelativeToolTip": "WebApplicationAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-08T06:32:12.666Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+D:\Msc_ICT\C#\Youtube_StoreProceduce_LINQ\ConsTutorialPoint\bin\Debug\ConsTutorialPoint.exe.config
+D:\Msc_ICT\C#\Youtube_StoreProceduce_LINQ\ConsTutorialPoint\bin\Debug\ConsTutorialPoint.exe
+D:\Msc_ICT\C#\Youtube_StoreProceduce_LINQ\ConsTutorialPoint\bin\Debug\ConsTutorialPoint.pdb
+D:\Msc_ICT\C#\Youtube_StoreProceduce_LINQ\ConsTutorialPoint\obj\Debug\ConsTutorialPoint.csproj.AssemblyReference.cache
+D:\Msc_ICT\C#\Youtube_StoreProceduce_LINQ\ConsTutorialPoint\obj\Debug\ConsTutorialPoint.csproj.CoreCompileInputs.cache
+D:\Msc_ICT\C#\Youtube_StoreProceduce_LINQ\ConsTutorialPoint\obj\Debug\ConsTutorialPoint.exe
+D:\Msc_ICT\C#\Youtube_StoreProceduce_LINQ\ConsTutorialPoint\obj\Debug\ConsTutorialPoint.pdb

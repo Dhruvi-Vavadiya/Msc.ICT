@@ -1,0 +1,7 @@
+D:\Msc_ICT\Sem2\C#\Console\ConsoleLINQEXAM\obj\Debug\ConsoleLINQEXAM.csproj.AssemblyReference.cache
+D:\Msc_ICT\Sem2\C#\Console\ConsoleLINQEXAM\obj\Debug\ConsoleLINQEXAM.csproj.CoreCompileInputs.cache
+D:\Msc_ICT\Sem2\C#\Console\ConsoleLINQEXAM\bin\Debug\ConsoleLINQEXAM.exe.config
+D:\Msc_ICT\Sem2\C#\Console\ConsoleLINQEXAM\bin\Debug\ConsoleLINQEXAM.exe
+D:\Msc_ICT\Sem2\C#\Console\ConsoleLINQEXAM\bin\Debug\ConsoleLINQEXAM.pdb
+D:\Msc_ICT\Sem2\C#\Console\ConsoleLINQEXAM\obj\Debug\ConsoleLINQEXAM.exe
+D:\Msc_ICT\Sem2\C#\Console\ConsoleLINQEXAM\obj\Debug\ConsoleLINQEXAM.pdb

@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!--
+
+    Licensed to the Apache Software Foundation (ASF) under one
+    or more contributor license agreements.  See the NOTICE file
+    distributed with this work for additional information
+    regarding copyright ownership.  The ASF licenses this file
+    to you under the Apache License, Version 2.0 (the
+    "License"); you may not use this file except in compliance
+    with the License.  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing,
+    software distributed under the License is distributed on an
+    "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+    KIND, either express or implied.  See the License for the
+    specific language governing permissions and limitations
+    under the License.
+
+-->
+<faces-config version="2.2"
+              xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+              xmlns:xi="http://www.w3.org/2001/XInclude"
+              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_2.xsd">
+
+    
+    <navigation-rule>
+<!--        <from-view-id>inputText.xhtml</from-view-id>-->
+<from-view-id>*</from-view-id>
+        <navigation-case>
+            <from-outcome>Donee</from-outcome>
+            <to-view-id>welinputText.xhtml</to-view-id>
+        </navigation-case>
+ 
+        <navigation-case>
+            <from-outcome>Failed</from-outcome>
+            <to-view-id>inputText.xhtml</to-view-id>
+        </navigation-case>
+ 
+    </navigation-rule>
+    
+    <navigation-rule>
+        <!--<from-view-id>dateconvertoer.xhtml</from-view-id>-->
+<!--        <from-view-id>*</from-view-id>-->
+        <navigation-case>
+            <from-outcome>done</from-outcome>
+            <to-view-id>dateconvertoer.xhtml</to-view-id>
+        </navigation-case>
+ 
+        <navigation-case>
+            <from-outcome>not done</from-outcome>
+            <to-view-id>cmdbtnjsf.xhtml</to-view-id>
+        </navigation-case>
+    </navigation-rule>
+    
+    <navigation-rule>
+<!--        <from-view-id>navigation_rulebased.xhtml</from-view-id>-->
+        <!--<from-view-id>*</from-view-id>-->
+        <navigation-case>
+            <from-outcome>wel</from-outcome>
+            <to-view-id>cmdbtnjsf.xhtml</to-view-id>
+            <redirect/>
+        </navigation-case>
+ 
+        <navigation-case>
+            <from-outcome>fail</from-outcome>
+            <to-view-id>navigation_rulebased.xhtml</to-view-id>
+            <redirect/>
+        </navigation-case>
+    </navigation-rule>
+
+     <navigation-rule>
+        <!--<from-view-id>conditional_navigation.xhtml</from-view-id>-->
+        <!--<from-view-id>*</from-view-id>-->
+        <navigation-case>
+            <from-outcome>type</from-outcome>
+            <if>#{conditional_navigation.type==2}</if>
+            <to-view-id>cmdbtnjsf.xhtml</to-view-id>
+            <redirect/>
+        </navigation-case>
+ 
+        <navigation-case>
+            <from-outcome>type</from-outcome>
+            <if>#{conditional_navigation.admin}</if>
+            <to-view-id>navigation_rulebased.xhtml</to-view-id>
+            <redirect/>
+        </navigation-case>
+    </navigation-rule>
+
+
+    <lifecycle>
+        <phase-listener>
+            event_phaselifecycle
+        </phase-listener>
+    </lifecycle>
+    
+<!--    <application>
+        <system-event-listener>
+            <system-event-listener-class>event_application</system-event-listener-class>
+            <system-event-class>javax.faces.event.PostConstructApplocationEvent</system-event-class>
+        </system-event-listener>
+        
+        <system-event-listener>
+            <system-event-listener-class>event_application</system-event-listener-class>
+            <system-event-class>javax.faces.event.PreDestroyApplicationEvent</system-event-class>
+        </system-event-listener>
+    </application>-->
+
+</faces-config>

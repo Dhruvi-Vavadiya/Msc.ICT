@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "F46bq9uZeUF5wXGsptLEelPKt/dtDkh8XdVN2F8h8mM=",
+  "Source": "WebAppMobileAPI",
+  "BasePath": "_content/WebAppMobileAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

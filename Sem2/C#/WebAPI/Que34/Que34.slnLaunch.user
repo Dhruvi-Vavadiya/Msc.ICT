@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "WebAppMobileAPI\\WebAppMobileAPI.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "WebAppMobileMVC\\WebAppMobileMVC.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

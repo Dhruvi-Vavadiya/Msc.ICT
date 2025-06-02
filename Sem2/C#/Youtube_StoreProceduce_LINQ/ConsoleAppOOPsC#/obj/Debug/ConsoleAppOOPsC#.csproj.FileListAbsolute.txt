@@ -1,0 +1,14 @@
+D:\Msc_ICT\C#\Youtube_StoreProceduce_LINQ\ConsoleAppOOPsC#\bin\Debug\ConsoleAppOOPsC#.exe.config
+D:\Msc_ICT\C#\Youtube_StoreProceduce_LINQ\ConsoleAppOOPsC#\bin\Debug\ConsoleAppOOPsC#.exe
+D:\Msc_ICT\C#\Youtube_StoreProceduce_LINQ\ConsoleAppOOPsC#\bin\Debug\ConsoleAppOOPsC#.pdb
+D:\Msc_ICT\C#\Youtube_StoreProceduce_LINQ\ConsoleAppOOPsC#\obj\Debug\ConsoleAppOOPsC#.csproj.AssemblyReference.cache
+D:\Msc_ICT\C#\Youtube_StoreProceduce_LINQ\ConsoleAppOOPsC#\obj\Debug\ConsoleAppOOPsC#.csproj.CoreCompileInputs.cache
+D:\Msc_ICT\C#\Youtube_StoreProceduce_LINQ\ConsoleAppOOPsC#\obj\Debug\ConsoleAppOOPsC#.exe
+D:\Msc_ICT\C#\Youtube_StoreProceduce_LINQ\ConsoleAppOOPsC#\obj\Debug\ConsoleAppOOPsC#.pdb
+D:\Msc_ICT\Sem2\C#\Youtube_StoreProceduce_LINQ\ConsoleAppOOPsC#\bin\Debug\ConsoleAppOOPsC#.exe.config
+D:\Msc_ICT\Sem2\C#\Youtube_StoreProceduce_LINQ\ConsoleAppOOPsC#\bin\Debug\ConsoleAppOOPsC#.exe
+D:\Msc_ICT\Sem2\C#\Youtube_StoreProceduce_LINQ\ConsoleAppOOPsC#\bin\Debug\ConsoleAppOOPsC#.pdb
+D:\Msc_ICT\Sem2\C#\Youtube_StoreProceduce_LINQ\ConsoleAppOOPsC#\obj\Debug\ConsoleAppOOPsC#.csproj.AssemblyReference.cache
+D:\Msc_ICT\Sem2\C#\Youtube_StoreProceduce_LINQ\ConsoleAppOOPsC#\obj\Debug\ConsoleAppOOPsC#.csproj.CoreCompileInputs.cache
+D:\Msc_ICT\Sem2\C#\Youtube_StoreProceduce_LINQ\ConsoleAppOOPsC#\obj\Debug\ConsoleAppOOPsC#.exe
+D:\Msc_ICT\Sem2\C#\Youtube_StoreProceduce_LINQ\ConsoleAppOOPsC#\obj\Debug\ConsoleAppOOPsC#.pdb

@@ -1,0 +1,333 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Msc_ICT\\Sem2\\C#\\Web\\ImageCRUD\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ImageCRUD.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ImageCRUD.95fwp3ogxs.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Msc_ICT\\Sem2\\C#\\Web\\ImageCRUD\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Msc_ICT\\Sem2\\C#\\Web\\ImageCRUD\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Msc_ICT\\Sem2\\C#\\Web\\ImageCRUD\\wwwroot\\images\\019f6060-c387-4a83-aefc-1593fc156fd8_aadaercard_back.JPG",
+      "PackagePath": "staticwebassets\\images\\019f6060-c387-4a83-aefc-1593fc156fd8_aadaercard_back.JPG"
+    },
+    {
+      "Id": "D:\\Msc_ICT\\Sem2\\C#\\Web\\ImageCRUD\\wwwroot\\images\\2c55d409-24a6-4448-baa6-be0296760dde_1000169460.jpg",
+      "PackagePath": "staticwebassets\\images\\2c55d409-24a6-4448-baa6-be0296760dde_1000169460.jpg"
+    },
+    {
+      "Id": "D:\\Msc_ICT\\Sem2\\C#\\Web\\ImageCRUD\\wwwroot\\images\\2e0229b1-08d0-41a1-a31a-eca357ebe297_aadaercard_back.JPG",
+      "PackagePath": "staticwebassets\\images\\2e0229b1-08d0-41a1-a31a-eca357ebe297_aadaercard_back.JPG"
+    },
+    {
+      "Id": "D:\\Msc_ICT\\Sem2\\C#\\Web\\ImageCRUD\\wwwroot\\images\\5083deae-f4e1-4a6d-a2af-7b1a581d18ab_adharcard_front.JPG",
+      "PackagePath": "staticwebassets\\images\\5083deae-f4e1-4a6d-a2af-7b1a581d18ab_adharcard_front.JPG"
+    },
+    {
+      "Id": "D:\\Msc_ICT\\Sem2\\C#\\Web\\ImageCRUD\\wwwroot\\images\\5e25378e-29df-467a-81df-35946d6b7dfa_Leaves.jpg",
+      "PackagePath": "staticwebassets\\images\\5e25378e-29df-467a-81df-35946d6b7dfa_Leaves.jpg"
+    },
+    {
+      "Id": "D:\\Msc_ICT\\Sem2\\C#\\Web\\ImageCRUD\\wwwroot\\images\\6b1463f5-4e9f-4724-bdbe-f12440bc82d0_1000169471.jpg",
+      "PackagePath": "staticwebassets\\images\\6b1463f5-4e9f-4724-bdbe-f12440bc82d0_1000169471.jpg"
+    },
+    {
+      "Id": "D:\\Msc_ICT\\Sem2\\C#\\Web\\ImageCRUD\\wwwroot\\images\\74b03a77-e911-4bda-966e-b8ab8d12cae2_Capture1.JPG",
+      "PackagePath": "staticwebassets\\images\\74b03a77-e911-4bda-966e-b8ab8d12cae2_Capture1.JPG"
+    },
+    {
+      "Id": "D:\\Msc_ICT\\Sem2\\C#\\Web\\ImageCRUD\\wwwroot\\images\\9ca6d149-574f-45b3-ab94-aa75cffe0b44_1000091455.jpg",
+      "PackagePath": "staticwebassets\\images\\9ca6d149-574f-45b3-ab94-aa75cffe0b44_1000091455.jpg"
+    },
+    {
+      "Id": "D:\\Msc_ICT\\Sem2\\C#\\Web\\ImageCRUD\\wwwroot\\images\\aadaercard_back.JPG",
+      "PackagePath": "staticwebassets\\images\\aadaercard_back.JPG"
+    },
+    {
+      "Id": "D:\\Msc_ICT\\Sem2\\C#\\Web\\ImageCRUD\\wwwroot\\images\\c5c9d384-c955-4991-97c7-3dee4f59e058_Capture1.JPG",
+      "PackagePath": "staticwebassets\\images\\c5c9d384-c955-4991-97c7-3dee4f59e058_Capture1.JPG"
+    },
+    {
+      "Id": "D:\\Msc_ICT\\Sem2\\C#\\Web\\ImageCRUD\\wwwroot\\images\\dc51d82e-00f6-4f7f-be82-76a02050229d_sparrow.jpg",
+      "PackagePath": "staticwebassets\\images\\dc51d82e-00f6-4f7f-be82-76a02050229d_sparrow.jpg"
+    },
+    {
+      "Id": "D:\\Msc_ICT\\Sem2\\C#\\Web\\ImageCRUD\\wwwroot\\images\\e08f4d63-aba1-4eb6-acd0-1397ab52dd49_1000091453.jpg",
+      "PackagePath": "staticwebassets\\images\\e08f4d63-aba1-4eb6-acd0-1397ab52dd49_1000091453.jpg"
+    },
+    {
+      "Id": "D:\\Msc_ICT\\Sem2\\C#\\Web\\ImageCRUD\\wwwroot\\images\\e0910437-bf7e-492c-9850-5ac02e678cba_sparrow.jpg",
+      "PackagePath": "staticwebassets\\images\\e0910437-bf7e-492c-9850-5ac02e678cba_sparrow.jpg"
+    },
+    {
+      "Id": "D:\\Msc_ICT\\Sem2\\C#\\Web\\ImageCRUD\\wwwroot\\images\\e2203101-1528-4ce9-9db8-0cd04e5db10b_sparrow.jpg",
+      "PackagePath": "staticwebassets\\images\\e2203101-1528-4ce9-9db8-0cd04e5db10b_sparrow.jpg"
+    },
+    {
+      "Id": "D:\\Msc_ICT\\Sem2\\C#\\Web\\ImageCRUD\\wwwroot\\images\\e68c6943-0f11-4a75-a7bb-beaab4e64340_movie.jpg",
+      "PackagePath": "staticwebassets\\images\\e68c6943-0f11-4a75-a7bb-beaab4e64340_movie.jpg"
+    },
+    {
+      "Id": "D:\\Msc_ICT\\Sem2\\C#\\Web\\ImageCRUD\\wwwroot\\images\\fbd4d61c-0d28-4d6d-9f5a-539bc55ceeae_cafe_beats.jpg",
+      "PackagePath": "staticwebassets\\images\\fbd4d61c-0d28-4d6d-9f5a-539bc55ceeae_cafe_beats.jpg"
+    },
+    {
+      "Id": "D:\\Msc_ICT\\Sem2\\C#\\Web\\ImageCRUD\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Msc_ICT\\Sem2\\C#\\Web\\ImageCRUD\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Msc_ICT\\Sem2\\C#\\Web\\ImageCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Msc_ICT\\Sem2\\C#\\Web\\ImageCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Msc_ICT\\Sem2\\C#\\Web\\ImageCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Msc_ICT\\Sem2\\C#\\Web\\ImageCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Msc_ICT\\Sem2\\C#\\Web\\ImageCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Msc_ICT\\Sem2\\C#\\Web\\ImageCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Msc_ICT\\Sem2\\C#\\Web\\ImageCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Msc_ICT\\Sem2\\C#\\Web\\ImageCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Msc_ICT\\Sem2\\C#\\Web\\ImageCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Msc_ICT\\Sem2\\C#\\Web\\ImageCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Msc_ICT\\Sem2\\C#\\Web\\ImageCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Msc_ICT\\Sem2\\C#\\Web\\ImageCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Msc_ICT\\Sem2\\C#\\Web\\ImageCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Msc_ICT\\Sem2\\C#\\Web\\ImageCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Msc_ICT\\Sem2\\C#\\Web\\ImageCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Msc_ICT\\Sem2\\C#\\Web\\ImageCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Msc_ICT\\Sem2\\C#\\Web\\ImageCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Msc_ICT\\Sem2\\C#\\Web\\ImageCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Msc_ICT\\Sem2\\C#\\Web\\ImageCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Msc_ICT\\Sem2\\C#\\Web\\ImageCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Msc_ICT\\Sem2\\C#\\Web\\ImageCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Msc_ICT\\Sem2\\C#\\Web\\ImageCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Msc_ICT\\Sem2\\C#\\Web\\ImageCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Msc_ICT\\Sem2\\C#\\Web\\ImageCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Msc_ICT\\Sem2\\C#\\Web\\ImageCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Msc_ICT\\Sem2\\C#\\Web\\ImageCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Msc_ICT\\Sem2\\C#\\Web\\ImageCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Msc_ICT\\Sem2\\C#\\Web\\ImageCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Msc_ICT\\Sem2\\C#\\Web\\ImageCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Msc_ICT\\Sem2\\C#\\Web\\ImageCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Msc_ICT\\Sem2\\C#\\Web\\ImageCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Msc_ICT\\Sem2\\C#\\Web\\ImageCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Msc_ICT\\Sem2\\C#\\Web\\ImageCRUD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Msc_ICT\\Sem2\\C#\\Web\\ImageCRUD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Msc_ICT\\Sem2\\C#\\Web\\ImageCRUD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Msc_ICT\\Sem2\\C#\\Web\\ImageCRUD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Msc_ICT\\Sem2\\C#\\Web\\ImageCRUD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Msc_ICT\\Sem2\\C#\\Web\\ImageCRUD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Msc_ICT\\Sem2\\C#\\Web\\ImageCRUD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Msc_ICT\\Sem2\\C#\\Web\\ImageCRUD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Msc_ICT\\Sem2\\C#\\Web\\ImageCRUD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Msc_ICT\\Sem2\\C#\\Web\\ImageCRUD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Msc_ICT\\Sem2\\C#\\Web\\ImageCRUD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Msc_ICT\\Sem2\\C#\\Web\\ImageCRUD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Msc_ICT\\Sem2\\C#\\Web\\ImageCRUD\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Msc_ICT\\Sem2\\C#\\Web\\ImageCRUD\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Msc_ICT\\Sem2\\C#\\Web\\ImageCRUD\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Msc_ICT\\Sem2\\C#\\Web\\ImageCRUD\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Msc_ICT\\Sem2\\C#\\Web\\ImageCRUD\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Msc_ICT\\Sem2\\C#\\Web\\ImageCRUD\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Msc_ICT\\Sem2\\C#\\Web\\ImageCRUD\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Msc_ICT\\Sem2\\C#\\Web\\ImageCRUD\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Msc_ICT\\Sem2\\C#\\Web\\ImageCRUD\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Msc_ICT\\Sem2\\C#\\Web\\ImageCRUD\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Msc_ICT\\Sem2\\C#\\Web\\ImageCRUD\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Msc_ICT\\Sem2\\C#\\Web\\ImageCRUD\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ImageCRUD.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ImageCRUD.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ImageCRUD.props",
+      "PackagePath": "build\\ImageCRUD.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ImageCRUD.props",
+      "PackagePath": "buildMultiTargeting\\ImageCRUD.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ImageCRUD.props",
+      "PackagePath": "buildTransitive\\ImageCRUD.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

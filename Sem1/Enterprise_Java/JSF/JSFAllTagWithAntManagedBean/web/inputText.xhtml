@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+ 
+<html xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:h="http://java.sun.com/jsf/html"
+	xmlns:f="http://java.sun.com/jsf/core"
+        xmlns:p="http://xmlns.jcp.org/jsf/passthrough">
+	<h:head>
+		<title>JSF input text example.</title>
+	</h:head>
+    <h:body>
+    	<h2>JSF input text example.</h2> 
+    	<h:form>
+    	   <!--<h:inputText id="name" p:placeholder="Enter name" />  Extra-->
+           <h:inputText id="email" p:placeholder="Enter email" value="#{inputText.name}" p:autofocus="true" p:type="email" required="true"/>
+    	   <br/> <br/>
+    	   <h:commandButton value="Click me" action="#{inputText.sayHello}"/>
+           <!--<h:outputText value="inputText.name"/>-->
+    	</h:form> 
+    </h:body>
+ 
+</html>

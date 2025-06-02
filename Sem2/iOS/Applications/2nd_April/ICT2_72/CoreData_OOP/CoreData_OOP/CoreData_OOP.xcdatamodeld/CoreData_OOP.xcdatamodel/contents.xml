@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="23605" systemVersion="24A8332" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Emp" representedClassName="Emp" syncable="YES">
+        <attribute name="eage" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="eid" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="ename" optional="YES" attributeType="String"/>
+        <relationship name="toEsalary" optional="YES" toMany="YES" deletionRule="Cascade" destinationEntity="Esalary"/>
+    </entity>
+    <entity name="Esalary" representedClassName="Esalary" syncable="YES">
+        <attribute name="ebasic" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+        <attribute name="eda" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+        <attribute name="ehra" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+        <attribute name="eid" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES"/>
+        <relationship name="toEmp" optional="YES" toMany="YES" deletionRule="Cascade" destinationEntity="Emp"/>
+    </entity>
+</model>

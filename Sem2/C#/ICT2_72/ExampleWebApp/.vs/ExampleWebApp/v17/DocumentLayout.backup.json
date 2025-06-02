@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Msc_ICT\\Sem2\\C#\\ICT2_72\\ExampleWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2A620B3-6D42-4B0C-91AA-FAB23B7F713F}|..\\ConsoleStudentApp\\ConsoleStudentApp.csproj|d:\\msc_ict\\sem2\\c#\\ict2_72\\consolestudentapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2A620B3-6D42-4B0C-91AA-FAB23B7F713F}|..\\ConsoleStudentApp\\ConsoleStudentApp.csproj|d:\\msc_ict\\sem2\\c#\\ict2_72\\consolestudentapp\\studnetcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2A620B3-6D42-4B0C-91AA-FAB23B7F713F}|..\\ConsoleStudentApp\\ConsoleStudentApp.csproj|d:\\msc_ict\\sem2\\c#\\ict2_72\\consolestudentapp\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\ICT2_72\\ConsoleStudentApp\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleStudentApp\\Program.cs",
+              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\ICT2_72\\ConsoleStudentApp\\Program.cs",
+              "RelativeToolTip": "..\\ConsoleStudentApp\\Program.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAF4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T11:41:40.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudnetCollection.cs",
+              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\ICT2_72\\ConsoleStudentApp\\StudnetCollection.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleStudentApp\\StudnetCollection.cs",
+              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\ICT2_72\\ConsoleStudentApp\\StudnetCollection.cs",
+              "RelativeToolTip": "..\\ConsoleStudentApp\\StudnetCollection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T11:41:33.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "students.cs",
+              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\ICT2_72\\ConsoleStudentApp\\students.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleStudentApp\\students.cs",
+              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\ICT2_72\\ConsoleStudentApp\\students.cs",
+              "RelativeToolTip": "..\\ConsoleStudentApp\\students.cs",
+              "ViewState": "AgIAAAgAAAAwMzMzMzM7wBgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T15:42:49.545Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

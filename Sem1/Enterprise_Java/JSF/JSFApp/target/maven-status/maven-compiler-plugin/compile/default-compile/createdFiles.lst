@@ -1,0 +1,15 @@
+bean\dataManagedBean.class
+bean\converterBean.class
+client\BookClient.class
+bean\compositebean.class
+entity\Bookmaster.class
+ejb\DataSessionBeanLocal.class
+bean\tableManagedBean.class
+validator\salValidator.class
+bean\tableManagedBean$1.class
+bean\person.class
+com\mycompany\jsfapp\JakartaRestConfiguration.class
+convter\customconvter.class
+ejb\DataSessionBean.class
+bean\EventBean.class
+com\mycompany\jsfapp\resources\JakartaEE8Resource.class

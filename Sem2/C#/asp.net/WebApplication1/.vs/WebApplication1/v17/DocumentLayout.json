@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Msc_ICT\\C#\\asp.net\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97872560-EB03-4BE8-9728-F0378EAB4AD4}|WebApplication1.csproj|d:\\msc_ict\\c#\\asp.net\\webapplication1\\about.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97872560-EB03-4BE8-9728-F0378EAB4AD4}|WebApplication1.csproj|solutionrelative:about.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97872560-EB03-4BE8-9728-F0378EAB4AD4}|WebApplication1.csproj|D:\\Msc_ICT\\C#\\asp.net\\WebApplication1\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97872560-EB03-4BE8-9728-F0378EAB4AD4}|WebApplication1.csproj|solutionrelative:global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97872560-EB03-4BE8-9728-F0378EAB4AD4}|WebApplication1.csproj|D:\\Msc_ICT\\C#\\asp.net\\WebApplication1\\app_start\\inculde.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97872560-EB03-4BE8-9728-F0378EAB4AD4}|WebApplication1.csproj|solutionrelative:app_start\\inculde.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97872560-EB03-4BE8-9728-F0378EAB4AD4}|WebApplication1.csproj|D:\\Msc_ICT\\C#\\asp.net\\WebApplication1\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97872560-EB03-4BE8-9728-F0378EAB4AD4}|WebApplication1.csproj|solutionrelative:app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97872560-EB03-4BE8-9728-F0378EAB4AD4}|WebApplication1.csproj|D:\\Msc_ICT\\C#\\asp.net\\WebApplication1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{97872560-EB03-4BE8-9728-F0378EAB4AD4}|WebApplication1.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97872560-EB03-4BE8-9728-F0378EAB4AD4}|WebApplication1.csproj|D:\\Msc_ICT\\C#\\asp.net\\WebApplication1\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{97872560-EB03-4BE8-9728-F0378EAB4AD4}|WebApplication1.csproj|solutionrelative:about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "D:\\Msc_ICT\\C#\\asp.net\\WebApplication1\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "App_Start\\RouteConfig.cs",
+              "ToolTip": "D:\\Msc_ICT\\C#\\asp.net\\WebApplication1\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T08:36:35.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\Msc_ICT\\C#\\asp.net\\WebApplication1\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "D:\\Msc_ICT\\C#\\asp.net\\WebApplication1\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-02-09T08:36:20.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Inculde.cs",
+              "DocumentMoniker": "D:\\Msc_ICT\\C#\\asp.net\\WebApplication1\\App_Start\\Inculde.cs",
+              "RelativeDocumentMoniker": "App_Start\\Inculde.cs",
+              "ToolTip": "D:\\Msc_ICT\\C#\\asp.net\\WebApplication1\\App_Start\\Inculde.cs",
+              "RelativeToolTip": "App_Start\\Inculde.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T08:03:02.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "About.aspx.cs",
+              "DocumentMoniker": "D:\\Msc_ICT\\C#\\asp.net\\WebApplication1\\About.aspx.cs",
+              "RelativeDocumentMoniker": "About.aspx.cs",
+              "ToolTip": "D:\\Msc_ICT\\C#\\asp.net\\WebApplication1\\About.aspx.cs",
+              "RelativeToolTip": "About.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T04:44:09.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "About.aspx",
+              "DocumentMoniker": "D:\\Msc_ICT\\C#\\asp.net\\WebApplication1\\About.aspx",
+              "RelativeDocumentMoniker": "About.aspx",
+              "ToolTip": "D:\\Msc_ICT\\C#\\asp.net\\WebApplication1\\About.aspx",
+              "RelativeToolTip": "About.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-02-09T04:08:39.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "D:\\Msc_ICT\\C#\\asp.net\\WebApplication1\\Global.asax.cs",
+              "RelativeDocumentMoniker": "Global.asax.cs",
+              "ToolTip": "D:\\Msc_ICT\\C#\\asp.net\\WebApplication1\\Global.asax.cs",
+              "RelativeToolTip": "Global.asax.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwA8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T04:02:56.107Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

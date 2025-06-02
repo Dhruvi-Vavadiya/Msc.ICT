@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "ubdQq9zKaIbMuA45PxHhEF+V43YyBM4LCW1K41zCo2k=",
+  "Source": "ExampleExpenseAPI",
+  "BasePath": "_content/ExampleExpenseAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

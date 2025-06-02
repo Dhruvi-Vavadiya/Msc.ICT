@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Msc_ICT\\Sem2\\C#\\Youtube_StoreProceduce_LINQ\\ConsoleAppOOPsC#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A6C0704-94E3-4A30-96EF-D0EC68F590D9}|ConsoleAppOOPsC#.csproj|D:\\Msc_ICT\\Sem2\\C#\\Youtube_StoreProceduce_LINQ\\ConsoleAppOOPsC#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A6C0704-94E3-4A30-96EF-D0EC68F590D9}|ConsoleAppOOPsC#.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE87394A-5B20-49C4-82B9-E0F64CA8839B}|..\\ConsTutorialPoint\\ConsTutorialPoint.csproj|d:\\msc_ict\\sem2\\c#\\youtube_storeproceduce_linq\\constutorialpoint\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659938B8-052F-482A-BE37-731D71CBC6AC}|..\\WebApplicationObject\\WebApplicationObject.csproj|d:\\msc_ict\\sem2\\c#\\youtube_storeproceduce_linq\\webapplicationobject\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659938B8-052F-482A-BE37-731D71CBC6AC}|..\\WebApplicationObject\\WebApplicationObject.csproj|d:\\msc_ict\\sem2\\c#\\youtube_storeproceduce_linq\\webapplicationobject\\controllers\\procontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE87394A-5B20-49C4-82B9-E0F64CA8839B}|..\\ConsTutorialPoint\\ConsTutorialPoint.csproj|d:\\msc_ict\\sem2\\c#\\youtube_storeproceduce_linq\\constutorialpoint\\objectint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\Youtube_StoreProceduce_LINQ\\WebApplicationObject\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "..\\WebApplicationObject\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\Youtube_StoreProceduce_LINQ\\WebApplicationObject\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "..\\WebApplicationObject\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAEkAAAAAMzMzMzMtwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T00:56:47.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProController.cs",
+              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\Youtube_StoreProceduce_LINQ\\WebApplicationObject\\Controllers\\ProController.cs",
+              "RelativeDocumentMoniker": "..\\WebApplicationObject\\Controllers\\ProController.cs",
+              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\Youtube_StoreProceduce_LINQ\\WebApplicationObject\\Controllers\\ProController.cs",
+              "RelativeToolTip": "..\\WebApplicationObject\\Controllers\\ProController.cs",
+              "ViewState": "AgIAAEwAAAAAzczMzMwQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T00:56:38.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\Youtube_StoreProceduce_LINQ\\ConsTutorialPoint\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ConsTutorialPoint\\Program.cs",
+              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\Youtube_StoreProceduce_LINQ\\ConsTutorialPoint\\Program.cs",
+              "RelativeToolTip": "..\\ConsTutorialPoint\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvyAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T00:56:22.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ObjectInt.cs",
+              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\Youtube_StoreProceduce_LINQ\\ConsTutorialPoint\\ObjectInt.cs",
+              "RelativeDocumentMoniker": "..\\ConsTutorialPoint\\ObjectInt.cs",
+              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\Youtube_StoreProceduce_LINQ\\ConsTutorialPoint\\ObjectInt.cs",
+              "RelativeToolTip": "..\\ConsTutorialPoint\\ObjectInt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T00:56:20.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\Youtube_StoreProceduce_LINQ\\ConsoleAppOOPsC#\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\Youtube_StoreProceduce_LINQ\\ConsoleAppOOPsC#\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAgwEsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T11:20:52.455Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

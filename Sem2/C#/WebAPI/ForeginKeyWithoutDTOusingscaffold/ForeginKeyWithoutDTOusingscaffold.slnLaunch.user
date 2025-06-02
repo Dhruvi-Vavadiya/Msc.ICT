@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "WebApplication1ExtraForegin\\WebApplication1ExtraForegin.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "WebAppExtraForeginMVC\\WebAppExtraForeginMVC.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

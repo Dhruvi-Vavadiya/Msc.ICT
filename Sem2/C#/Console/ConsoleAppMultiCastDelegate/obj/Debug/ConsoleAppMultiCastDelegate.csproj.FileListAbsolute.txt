@@ -1,0 +1,14 @@
+D:\Msc_ICT\C#\Console\ConsoleAppMultiCastDelegate\bin\Debug\ConsoleAppMultiCastDelegate.exe.config
+D:\Msc_ICT\C#\Console\ConsoleAppMultiCastDelegate\bin\Debug\ConsoleAppMultiCastDelegate.exe
+D:\Msc_ICT\C#\Console\ConsoleAppMultiCastDelegate\bin\Debug\ConsoleAppMultiCastDelegate.pdb
+D:\Msc_ICT\C#\Console\ConsoleAppMultiCastDelegate\obj\Debug\ConsoleAppMultiCastDelegate.csproj.AssemblyReference.cache
+D:\Msc_ICT\C#\Console\ConsoleAppMultiCastDelegate\obj\Debug\ConsoleAppMultiCastDelegate.csproj.CoreCompileInputs.cache
+D:\Msc_ICT\C#\Console\ConsoleAppMultiCastDelegate\obj\Debug\ConsoleAppMultiCastDelegate.exe
+D:\Msc_ICT\C#\Console\ConsoleAppMultiCastDelegate\obj\Debug\ConsoleAppMultiCastDelegate.pdb
+D:\Msc_ICT\Sem2\C#\Console\ConsoleAppMultiCastDelegate\bin\Debug\ConsoleAppMultiCastDelegate.exe.config
+D:\Msc_ICT\Sem2\C#\Console\ConsoleAppMultiCastDelegate\bin\Debug\ConsoleAppMultiCastDelegate.exe
+D:\Msc_ICT\Sem2\C#\Console\ConsoleAppMultiCastDelegate\bin\Debug\ConsoleAppMultiCastDelegate.pdb
+D:\Msc_ICT\Sem2\C#\Console\ConsoleAppMultiCastDelegate\obj\Debug\ConsoleAppMultiCastDelegate.csproj.AssemblyReference.cache
+D:\Msc_ICT\Sem2\C#\Console\ConsoleAppMultiCastDelegate\obj\Debug\ConsoleAppMultiCastDelegate.csproj.CoreCompileInputs.cache
+D:\Msc_ICT\Sem2\C#\Console\ConsoleAppMultiCastDelegate\obj\Debug\ConsoleAppMultiCastDelegate.exe
+D:\Msc_ICT\Sem2\C#\Console\ConsoleAppMultiCastDelegate\obj\Debug\ConsoleAppMultiCastDelegate.pdb

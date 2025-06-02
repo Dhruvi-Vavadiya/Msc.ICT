@@ -1,0 +1,14 @@
+F:\ICT2_72\Practical_Assignment_2\Console_FirstQ\bin\Debug\net8.0\Console_FirstQ.exe
+F:\ICT2_72\Practical_Assignment_2\Console_FirstQ\bin\Debug\net8.0\Console_FirstQ.deps.json
+F:\ICT2_72\Practical_Assignment_2\Console_FirstQ\bin\Debug\net8.0\Console_FirstQ.runtimeconfig.json
+F:\ICT2_72\Practical_Assignment_2\Console_FirstQ\bin\Debug\net8.0\Console_FirstQ.dll
+F:\ICT2_72\Practical_Assignment_2\Console_FirstQ\bin\Debug\net8.0\Console_FirstQ.pdb
+F:\ICT2_72\Practical_Assignment_2\Console_FirstQ\obj\Debug\net8.0\Console_FirstQ.GeneratedMSBuildEditorConfig.editorconfig
+F:\ICT2_72\Practical_Assignment_2\Console_FirstQ\obj\Debug\net8.0\Console_FirstQ.AssemblyInfoInputs.cache
+F:\ICT2_72\Practical_Assignment_2\Console_FirstQ\obj\Debug\net8.0\Console_FirstQ.AssemblyInfo.cs
+F:\ICT2_72\Practical_Assignment_2\Console_FirstQ\obj\Debug\net8.0\Console_FirstQ.csproj.CoreCompileInputs.cache
+F:\ICT2_72\Practical_Assignment_2\Console_FirstQ\obj\Debug\net8.0\Console_FirstQ.dll
+F:\ICT2_72\Practical_Assignment_2\Console_FirstQ\obj\Debug\net8.0\refint\Console_FirstQ.dll
+F:\ICT2_72\Practical_Assignment_2\Console_FirstQ\obj\Debug\net8.0\Console_FirstQ.pdb
+F:\ICT2_72\Practical_Assignment_2\Console_FirstQ\obj\Debug\net8.0\Console_FirstQ.genruntimeconfig.cache
+F:\ICT2_72\Practical_Assignment_2\Console_FirstQ\obj\Debug\net8.0\ref\Console_FirstQ.dll
