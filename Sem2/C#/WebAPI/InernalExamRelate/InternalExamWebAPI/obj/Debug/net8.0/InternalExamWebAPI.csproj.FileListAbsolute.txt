@@ -34,3 +34,4 @@ D:\Msc_ICT\Sem2\C#\WebAPI\InernalExamRelate\InternalExamWebAPI\obj\Debug\net8.0\
 D:\Msc_ICT\Sem2\C#\WebAPI\InernalExamRelate\InternalExamWebAPI\obj\Debug\net8.0\InternalExamWebAPI.pdb
 D:\Msc_ICT\Sem2\C#\WebAPI\InernalExamRelate\InternalExamWebAPI\obj\Debug\net8.0\InternalExamWebAPI.genruntimeconfig.cache
 D:\Msc_ICT\Sem2\C#\WebAPI\InernalExamRelate\InternalExamWebAPI\obj\Debug\net8.0\ref\InternalExamWebAPI.dll
+D:\Msc_ICT\Sem2\C#\WebAPI\InernalExamRelate\InternalExamWebAPI\obj\Debug\net8.0\InternalExamWebAPI.sourcelink.json

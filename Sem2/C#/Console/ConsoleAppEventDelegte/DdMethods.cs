@@ -14,7 +14,10 @@ namespace ConsoleAppEventDelegte
             //Program.print(); //Problem
             del();
         }
+        //VoidDelegate
         public static void print() { Console.WriteLine("program class print() method throgh get myclass abcd method using VoidDelegate name delegate"); }
+
+        //VoidDelWithParameter
         private static void display(string msg) { Console.WriteLine("display method :-" + msg); }
 
     }

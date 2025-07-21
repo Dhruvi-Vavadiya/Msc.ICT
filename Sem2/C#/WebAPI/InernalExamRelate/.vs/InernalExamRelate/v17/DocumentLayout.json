@@ -3,24 +3,44 @@
   "WorkspaceRootPath": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\InernalExamRelate\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{74927F81-0F41-4C95-8E42-0CBDA55AE08B}|InternalExamWebAPI\\InternalExamWebAPI.csproj|d:\\msc_ict\\sem2\\c#\\webapi\\inernalexamrelate\\internalexamwebapi\\controllers\\productsalecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74927F81-0F41-4C95-8E42-0CBDA55AE08B}|InternalExamWebAPI\\InternalExamWebAPI.csproj|solutionrelative:internalexamwebapi\\controllers\\productsalecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3FE9858E-3981-4BDE-98DD-A5B2030D6A54}|WebAppExamMVC\\WebAppExamMVC.csproj|d:\\msc_ict\\sem2\\c#\\webapi\\inernalexamrelate\\webappexammvc\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3FE9858E-3981-4BDE-98DD-A5B2030D6A54}|WebAppExamMVC\\WebAppExamMVC.csproj|solutionrelative:webappexammvc\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3FE9858E-3981-4BDE-98DD-A5B2030D6A54}|WebAppExamMVC\\WebAppExamMVC.csproj|d:\\msc_ict\\sem2\\c#\\webapi\\inernalexamrelate\\webappexammvc\\views\\sales\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3FE9858E-3981-4BDE-98DD-A5B2030D6A54}|WebAppExamMVC\\WebAppExamMVC.csproj|solutionrelative:webappexammvc\\views\\sales\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3FE9858E-3981-4BDE-98DD-A5B2030D6A54}|WebAppExamMVC\\WebAppExamMVC.csproj|d:\\msc_ict\\sem2\\c#\\webapi\\inernalexamrelate\\webappexammvc\\views\\sales\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FE9858E-3981-4BDE-98DD-A5B2030D6A54}|WebAppExamMVC\\WebAppExamMVC.csproj|solutionrelative:webappexammvc\\views\\sales\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3FE9858E-3981-4BDE-98DD-A5B2030D6A54}|WebAppExamMVC\\WebAppExamMVC.csproj|d:\\msc_ict\\sem2\\c#\\webapi\\inernalexamrelate\\webappexammvc\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3FE9858E-3981-4BDE-98DD-A5B2030D6A54}|WebAppExamMVC\\WebAppExamMVC.csproj|solutionrelative:webappexammvc\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C0B895D6-7F3D-4EB6-8356-D587A34B3A9D}|WebUserPersonaldetailsMVC\\WebUserPersonaldetailsMVC.csproj|d:\\msc_ict\\sem2\\c#\\webapi\\inernalexamrelate\\webuserpersonaldetailsmvc\\views\\personaldetails\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0B895D6-7F3D-4EB6-8356-D587A34B3A9D}|WebUserPersonaldetailsMVC\\WebUserPersonaldetailsMVC.csproj|solutionrelative:webuserpersonaldetailsmvc\\views\\personaldetails\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0B895D6-7F3D-4EB6-8356-D587A34B3A9D}|WebUserPersonaldetailsMVC\\WebUserPersonaldetailsMVC.csproj|d:\\msc_ict\\sem2\\c#\\webapi\\inernalexamrelate\\webuserpersonaldetailsmvc\\views\\personaldetails\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0B895D6-7F3D-4EB6-8356-D587A34B3A9D}|WebUserPersonaldetailsMVC\\WebUserPersonaldetailsMVC.csproj|solutionrelative:webuserpersonaldetailsmvc\\views\\personaldetails\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0B895D6-7F3D-4EB6-8356-D587A34B3A9D}|WebUserPersonaldetailsMVC\\WebUserPersonaldetailsMVC.csproj|d:\\msc_ict\\sem2\\c#\\webapi\\inernalexamrelate\\webuserpersonaldetailsmvc\\views\\personaldetails\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0B895D6-7F3D-4EB6-8356-D587A34B3A9D}|WebUserPersonaldetailsMVC\\WebUserPersonaldetailsMVC.csproj|solutionrelative:webuserpersonaldetailsmvc\\views\\personaldetails\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C0B895D6-7F3D-4EB6-8356-D587A34B3A9D}|WebUserPersonaldetailsMVC\\WebUserPersonaldetailsMVC.csproj|d:\\msc_ict\\sem2\\c#\\webapi\\inernalexamrelate\\webuserpersonaldetailsmvc\\views\\personaldetails\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C0B895D6-7F3D-4EB6-8356-D587A34B3A9D}|WebUserPersonaldetailsMVC\\WebUserPersonaldetailsMVC.csproj|solutionrelative:webuserpersonaldetailsmvc\\views\\personaldetails\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0B895D6-7F3D-4EB6-8356-D587A34B3A9D}|WebUserPersonaldetailsMVC\\WebUserPersonaldetailsMVC.csproj|d:\\msc_ict\\sem2\\c#\\webapi\\inernalexamrelate\\webuserpersonaldetailsmvc\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0B895D6-7F3D-4EB6-8356-D587A34B3A9D}|WebUserPersonaldetailsMVC\\WebUserPersonaldetailsMVC.csproj|solutionrelative:webuserpersonaldetailsmvc\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0B895D6-7F3D-4EB6-8356-D587A34B3A9D}|WebUserPersonaldetailsMVC\\WebUserPersonaldetailsMVC.csproj|d:\\msc_ict\\sem2\\c#\\webapi\\inernalexamrelate\\webuserpersonaldetailsmvc\\views\\users\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0B895D6-7F3D-4EB6-8356-D587A34B3A9D}|WebUserPersonaldetailsMVC\\WebUserPersonaldetailsMVC.csproj|solutionrelative:webuserpersonaldetailsmvc\\views\\users\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0B895D6-7F3D-4EB6-8356-D587A34B3A9D}|WebUserPersonaldetailsMVC\\WebUserPersonaldetailsMVC.csproj|d:\\msc_ict\\sem2\\c#\\webapi\\inernalexamrelate\\webuserpersonaldetailsmvc\\views\\users\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0B895D6-7F3D-4EB6-8356-D587A34B3A9D}|WebUserPersonaldetailsMVC\\WebUserPersonaldetailsMVC.csproj|solutionrelative:webuserpersonaldetailsmvc\\views\\users\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0B895D6-7F3D-4EB6-8356-D587A34B3A9D}|WebUserPersonaldetailsMVC\\WebUserPersonaldetailsMVC.csproj|d:\\msc_ict\\sem2\\c#\\webapi\\inernalexamrelate\\webuserpersonaldetailsmvc\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0B895D6-7F3D-4EB6-8356-D587A34B3A9D}|WebUserPersonaldetailsMVC\\WebUserPersonaldetailsMVC.csproj|solutionrelative:webuserpersonaldetailsmvc\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C0B895D6-7F3D-4EB6-8356-D587A34B3A9D}|WebUserPersonaldetailsMVC\\WebUserPersonaldetailsMVC.csproj|d:\\msc_ict\\sem2\\c#\\webapi\\inernalexamrelate\\webuserpersonaldetailsmvc\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -31,8 +51,47 @@
       "RelativeMoniker": "D:0:0:{C0B895D6-7F3D-4EB6-8356-D587A34B3A9D}|WebUserPersonaldetailsMVC\\WebUserPersonaldetailsMVC.csproj|solutionrelative:webuserpersonaldetailsmvc\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{C0B895D6-7F3D-4EB6-8356-D587A34B3A9D}|WebUserPersonaldetailsMVC\\WebUserPersonaldetailsMVC.csproj|d:\\msc_ict\\sem2\\c#\\webapi\\inernalexamrelate\\webuserpersonaldetailsmvc\\controllers\\userpersonalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0B895D6-7F3D-4EB6-8356-D587A34B3A9D}|WebUserPersonaldetailsMVC\\WebUserPersonaldetailsMVC.csproj|solutionrelative:webuserpersonaldetailsmvc\\controllers\\userpersonalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C0B895D6-7F3D-4EB6-8356-D587A34B3A9D}|WebUserPersonaldetailsMVC\\WebUserPersonaldetailsMVC.csproj|d:\\msc_ict\\sem2\\c#\\webapi\\inernalexamrelate\\webuserpersonaldetailsmvc\\controllers\\personaldetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0B895D6-7F3D-4EB6-8356-D587A34B3A9D}|WebUserPersonaldetailsMVC\\WebUserPersonaldetailsMVC.csproj|solutionrelative:webuserpersonaldetailsmvc\\controllers\\personaldetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3601953-EE24-413B-AB09-38A75978D36D}|ConsoleAppTupleDelegateOopsConcepts\\ConsoleAppTupleDelegateOopsConcepts.csproj|d:\\msc_ict\\sem2\\c#\\webapi\\inernalexamrelate\\consoleapptupledelegateoopsconcepts\\employeeindexer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3601953-EE24-413B-AB09-38A75978D36D}|ConsoleAppTupleDelegateOopsConcepts\\ConsoleAppTupleDelegateOopsConcepts.csproj|solutionrelative:consoleapptupledelegateoopsconcepts\\employeeindexer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74927F81-0F41-4C95-8E42-0CBDA55AE08B}|InternalExamWebAPI\\InternalExamWebAPI.csproj|d:\\msc_ict\\sem2\\c#\\webapi\\inernalexamrelate\\internalexamwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74927F81-0F41-4C95-8E42-0CBDA55AE08B}|InternalExamWebAPI\\InternalExamWebAPI.csproj|solutionrelative:internalexamwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE9858E-3981-4BDE-98DD-A5B2030D6A54}|WebAppExamMVC\\WebAppExamMVC.csproj|d:\\msc_ict\\sem2\\c#\\webapi\\inernalexamrelate\\webappexammvc\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FE9858E-3981-4BDE-98DD-A5B2030D6A54}|WebAppExamMVC\\WebAppExamMVC.csproj|solutionrelative:webappexammvc\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE9858E-3981-4BDE-98DD-A5B2030D6A54}|WebAppExamMVC\\WebAppExamMVC.csproj|d:\\msc_ict\\sem2\\c#\\webapi\\inernalexamrelate\\webappexammvc\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FE9858E-3981-4BDE-98DD-A5B2030D6A54}|WebAppExamMVC\\WebAppExamMVC.csproj|solutionrelative:webappexammvc\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE9858E-3981-4BDE-98DD-A5B2030D6A54}|WebAppExamMVC\\WebAppExamMVC.csproj|d:\\msc_ict\\sem2\\c#\\webapi\\inernalexamrelate\\webappexammvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FE9858E-3981-4BDE-98DD-A5B2030D6A54}|WebAppExamMVC\\WebAppExamMVC.csproj|solutionrelative:webappexammvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74927F81-0F41-4C95-8E42-0CBDA55AE08B}|InternalExamWebAPI\\InternalExamWebAPI.csproj|d:\\msc_ict\\sem2\\c#\\webapi\\inernalexamrelate\\internalexamwebapi\\controllers\\productsalecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74927F81-0F41-4C95-8E42-0CBDA55AE08B}|InternalExamWebAPI\\InternalExamWebAPI.csproj|solutionrelative:internalexamwebapi\\controllers\\productsalecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ConsoleAppTupleDelegateOopsConcepts||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3601953-EE24-413B-AB09-38A75978D36D}|ConsoleAppTupleDelegateOopsConcepts\\ConsoleAppTupleDelegateOopsConcepts.csproj|D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\InernalExamRelate\\consoleapptupledelegateoopsconcepts\\studnetobjindexer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3601953-EE24-413B-AB09-38A75978D36D}|ConsoleAppTupleDelegateOopsConcepts\\ConsoleAppTupleDelegateOopsConcepts.csproj|solutionrelative:consoleapptupledelegateoopsconcepts\\studnetobjindexer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE9858E-3981-4BDE-98DD-A5B2030D6A54}|WebAppExamMVC\\WebAppExamMVC.csproj|d:\\msc_ict\\sem2\\c#\\webapi\\inernalexamrelate\\webappexammvc\\views\\sales\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FE9858E-3981-4BDE-98DD-A5B2030D6A54}|WebAppExamMVC\\WebAppExamMVC.csproj|solutionrelative:webappexammvc\\views\\sales\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C0B895D6-7F3D-4EB6-8356-D587A34B3A9D}|WebUserPersonaldetailsMVC\\WebUserPersonaldetailsMVC.csproj|d:\\msc_ict\\sem2\\c#\\webapi\\inernalexamrelate\\webuserpersonaldetailsmvc\\views\\personaldetails\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -45,10 +104,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C0B895D6-7F3D-4EB6-8356-D587A34B3A9D}|WebUserPersonaldetailsMVC\\WebUserPersonaldetailsMVC.csproj|d:\\msc_ict\\sem2\\c#\\webapi\\inernalexamrelate\\webuserpersonaldetailsmvc\\models\\userpersonaldetailscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0B895D6-7F3D-4EB6-8356-D587A34B3A9D}|WebUserPersonaldetailsMVC\\WebUserPersonaldetailsMVC.csproj|solutionrelative:webuserpersonaldetailsmvc\\models\\userpersonaldetailscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C0B895D6-7F3D-4EB6-8356-D587A34B3A9D}|WebUserPersonaldetailsMVC\\WebUserPersonaldetailsMVC.csproj|d:\\msc_ict\\sem2\\c#\\webapi\\inernalexamrelate\\webuserpersonaldetailsmvc\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C0B895D6-7F3D-4EB6-8356-D587A34B3A9D}|WebUserPersonaldetailsMVC\\WebUserPersonaldetailsMVC.csproj|solutionrelative:webuserpersonaldetailsmvc\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3FE9858E-3981-4BDE-98DD-A5B2030D6A54}|WebAppExamMVC\\WebAppExamMVC.csproj|d:\\msc_ict\\sem2\\c#\\webapi\\inernalexamrelate\\webappexammvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -66,10 +121,6 @@
       "RelativeMoniker": "D:0:0:{3FE9858E-3981-4BDE-98DD-A5B2030D6A54}|WebAppExamMVC\\WebAppExamMVC.csproj|solutionrelative:webappexammvc\\models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3601953-EE24-413B-AB09-38A75978D36D}|ConsoleAppTupleDelegateOopsConcepts\\ConsoleAppTupleDelegateOopsConcepts.csproj|D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\InernalExamRelate\\consoleapptupledelegateoopsconcepts\\studnetobjindexer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3601953-EE24-413B-AB09-38A75978D36D}|ConsoleAppTupleDelegateOopsConcepts\\ConsoleAppTupleDelegateOopsConcepts.csproj|solutionrelative:consoleapptupledelegateoopsconcepts\\studnetobjindexer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D3601953-EE24-413B-AB09-38A75978D36D}|ConsoleAppTupleDelegateOopsConcepts\\ConsoleAppTupleDelegateOopsConcepts.csproj|D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\InernalExamRelate\\consoleapptupledelegateoopsconcepts\\genericexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D3601953-EE24-413B-AB09-38A75978D36D}|ConsoleAppTupleDelegateOopsConcepts\\ConsoleAppTupleDelegateOopsConcepts.csproj|solutionrelative:consoleapptupledelegateoopsconcepts\\genericexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -85,7 +136,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 1339,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -97,59 +148,290 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\InernalExamRelate\\WebUserPersonaldetailsMVC\\Views\\Users\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebUserPersonaldetailsMVC\\Views\\Users\\Index.cshtml",
-              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\InernalExamRelate\\WebUserPersonaldetailsMVC\\Views\\Users\\Index.cshtml",
-              "RelativeToolTip": "WebUserPersonaldetailsMVC\\Views\\Users\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAPAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\InernalExamRelate\\WebAppExamMVC\\Views\\Sales\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebAppExamMVC\\Views\\Sales\\Create.cshtml",
+              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\InernalExamRelate\\WebAppExamMVC\\Views\\Sales\\Create.cshtml",
+              "RelativeToolTip": "WebAppExamMVC\\Views\\Sales\\Create.cshtml",
+              "ViewState": "AgIAAAkAAABgZmZmZmYkwBYAAABUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-26T02:08:24.081Z",
+              "WhenOpened": "2025-07-20T12:29:42.553Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductSaleController.cs",
-              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\InernalExamRelate\\InternalExamWebAPI\\Controllers\\ProductSaleController.cs",
-              "RelativeDocumentMoniker": "InternalExamWebAPI\\Controllers\\ProductSaleController.cs",
-              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\InernalExamRelate\\InternalExamWebAPI\\Controllers\\ProductSaleController.cs",
-              "RelativeToolTip": "InternalExamWebAPI\\Controllers\\ProductSaleController.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAawBgAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T16:27:07.873Z",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\InernalExamRelate\\WebUserPersonaldetailsMVC\\Views\\PersonalDetails\\Delete.cshtml",
+              "RelativeDocumentMoniker": "WebUserPersonaldetailsMVC\\Views\\PersonalDetails\\Delete.cshtml",
+              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\InernalExamRelate\\WebUserPersonaldetailsMVC\\Views\\PersonalDetails\\Delete.cshtml",
+              "RelativeToolTip": "WebUserPersonaldetailsMVC\\Views\\PersonalDetails\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-20T12:24:16.525Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\InernalExamRelate\\WebAppExamMVC\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "WebAppExamMVC\\Controllers\\ProductsController.cs",
-              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\InernalExamRelate\\WebAppExamMVC\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "WebAppExamMVC\\Controllers\\ProductsController.cs",
-              "ViewState": "AgIAAG0AAADAMjMzMzMnwEIAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-20T07:45:16.023Z",
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\InernalExamRelate\\WebUserPersonaldetailsMVC\\Views\\PersonalDetails\\Details.cshtml",
+              "RelativeDocumentMoniker": "WebUserPersonaldetailsMVC\\Views\\PersonalDetails\\Details.cshtml",
+              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\InernalExamRelate\\WebUserPersonaldetailsMVC\\Views\\PersonalDetails\\Details.cshtml",
+              "RelativeToolTip": "WebUserPersonaldetailsMVC\\Views\\PersonalDetails\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-20T12:24:15.006Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\InernalExamRelate\\WebUserPersonaldetailsMVC\\Views\\PersonalDetails\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebUserPersonaldetailsMVC\\Views\\PersonalDetails\\Edit.cshtml",
+              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\InernalExamRelate\\WebUserPersonaldetailsMVC\\Views\\PersonalDetails\\Edit.cshtml",
+              "RelativeToolTip": "WebUserPersonaldetailsMVC\\Views\\PersonalDetails\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-20T12:24:13.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\InernalExamRelate\\WebUserPersonaldetailsMVC\\Views\\Users\\Delete.cshtml",
+              "RelativeDocumentMoniker": "WebUserPersonaldetailsMVC\\Views\\Users\\Delete.cshtml",
+              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\InernalExamRelate\\WebUserPersonaldetailsMVC\\Views\\Users\\Delete.cshtml",
+              "RelativeToolTip": "WebUserPersonaldetailsMVC\\Views\\Users\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-20T12:24:04.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\InernalExamRelate\\WebUserPersonaldetailsMVC\\Views\\Users\\Details.cshtml",
+              "RelativeDocumentMoniker": "WebUserPersonaldetailsMVC\\Views\\Users\\Details.cshtml",
+              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\InernalExamRelate\\WebUserPersonaldetailsMVC\\Views\\Users\\Details.cshtml",
+              "RelativeToolTip": "WebUserPersonaldetailsMVC\\Views\\Users\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-20T12:24:03.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "SalesController.cs",
               "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\InernalExamRelate\\WebAppExamMVC\\Controllers\\SalesController.cs",
               "RelativeDocumentMoniker": "WebAppExamMVC\\Controllers\\SalesController.cs",
               "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\InernalExamRelate\\WebAppExamMVC\\Controllers\\SalesController.cs",
               "RelativeToolTip": "WebAppExamMVC\\Controllers\\SalesController.cs",
-              "ViewState": "AgIAAD4AAAAwMzMzM7MwwEQAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAACUAAACAmZmZmZkXwDIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-20T07:45:19.195Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\InernalExamRelate\\WebUserPersonaldetailsMVC\\Views\\Users\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebUserPersonaldetailsMVC\\Views\\Users\\Edit.cshtml",
+              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\InernalExamRelate\\WebUserPersonaldetailsMVC\\Views\\Users\\Edit.cshtml",
+              "RelativeToolTip": "WebUserPersonaldetailsMVC\\Views\\Users\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-20T12:24:01.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserPersonalController.cs",
+              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\InernalExamRelate\\WebUserPersonaldetailsMVC\\Controllers\\UserPersonalController.cs",
+              "RelativeDocumentMoniker": "WebUserPersonaldetailsMVC\\Controllers\\UserPersonalController.cs",
+              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\InernalExamRelate\\WebUserPersonaldetailsMVC\\Controllers\\UserPersonalController.cs",
+              "RelativeToolTip": "WebUserPersonaldetailsMVC\\Controllers\\UserPersonalController.cs",
+              "ViewState": "AgIAAAUAAABAZWZmZmYawEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T12:22:34.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\InernalExamRelate\\WebUserPersonaldetailsMVC\\Views\\Users\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebUserPersonaldetailsMVC\\Views\\Users\\Create.cshtml",
+              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\InernalExamRelate\\WebUserPersonaldetailsMVC\\Views\\Users\\Create.cshtml",
+              "RelativeToolTip": "WebUserPersonaldetailsMVC\\Views\\Users\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-26T01:28:36.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\InernalExamRelate\\WebUserPersonaldetailsMVC\\Views\\PersonalDetails\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebUserPersonaldetailsMVC\\Views\\PersonalDetails\\Index.cshtml",
+              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\InernalExamRelate\\WebUserPersonaldetailsMVC\\Views\\PersonalDetails\\Index.cshtml",
+              "RelativeToolTip": "WebUserPersonaldetailsMVC\\Views\\PersonalDetails\\Index.cshtml",
+              "ViewState": "AgIAACIAAADAMjMzMzMrwAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-26T03:27:52.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EmployeeIndexer.cs",
+              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\InernalExamRelate\\ConsoleAppTupleDelegateOopsConcepts\\EmployeeIndexer.cs",
+              "RelativeDocumentMoniker": "ConsoleAppTupleDelegateOopsConcepts\\EmployeeIndexer.cs",
+              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\InernalExamRelate\\ConsoleAppTupleDelegateOopsConcepts\\EmployeeIndexer.cs",
+              "RelativeToolTip": "ConsoleAppTupleDelegateOopsConcepts\\EmployeeIndexer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T01:54:57.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\InernalExamRelate\\WebAppExamMVC\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "WebAppExamMVC\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\InernalExamRelate\\WebAppExamMVC\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "WebAppExamMVC\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAHoAAADwZWZmZmYowIkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T07:45:16.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\InernalExamRelate\\WebUserPersonaldetailsMVC\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "WebUserPersonaldetailsMVC\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\InernalExamRelate\\WebUserPersonaldetailsMVC\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "WebUserPersonaldetailsMVC\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAANwAAAAAyszMzMwhwJsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T06:22:46.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\InernalExamRelate\\WebUserPersonaldetailsMVC\\Views\\Users\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebUserPersonaldetailsMVC\\Views\\Users\\Index.cshtml",
+              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\InernalExamRelate\\WebUserPersonaldetailsMVC\\Views\\Users\\Index.cshtml",
+              "RelativeToolTip": "WebUserPersonaldetailsMVC\\Views\\Users\\Index.cshtml",
+              "ViewState": "AgIAAEUAAAAAMzMzMzMbwBMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-26T02:08:24.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProductSaleController.cs",
+              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\InernalExamRelate\\InternalExamWebAPI\\Controllers\\ProductSaleController.cs",
+              "RelativeDocumentMoniker": "InternalExamWebAPI\\Controllers\\ProductSaleController.cs",
+              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\InernalExamRelate\\InternalExamWebAPI\\Controllers\\ProductSaleController.cs",
+              "RelativeToolTip": "InternalExamWebAPI\\Controllers\\ProductSaleController.cs",
+              "ViewState": "AgIAAAwAAACQmZmZmZkxwBsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T16:27:07.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\InernalExamRelate\\WebAppExamMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebAppExamMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\InernalExamRelate\\WebAppExamMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebAppExamMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABEAAABAMzMzMzMhwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T12:09:20.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PersonalDetailsController.cs",
+              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\InernalExamRelate\\WebUserPersonaldetailsMVC\\Controllers\\PersonalDetailsController.cs",
+              "RelativeDocumentMoniker": "WebUserPersonaldetailsMVC\\Controllers\\PersonalDetailsController.cs",
+              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\InernalExamRelate\\WebUserPersonaldetailsMVC\\Controllers\\PersonalDetailsController.cs",
+              "RelativeToolTip": "WebUserPersonaldetailsMVC\\Controllers\\PersonalDetailsController.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAAArwFMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T09:29:19.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\InernalExamRelate\\WebAppExamMVC\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebAppExamMVC\\Views\\Products\\Create.cshtml",
+              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\InernalExamRelate\\WebAppExamMVC\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "WebAppExamMVC\\Views\\Products\\Create.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-20T12:09:46.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\InernalExamRelate\\InternalExamWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "InternalExamWebAPI\\Program.cs",
+              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\InernalExamRelate\\InternalExamWebAPI\\Program.cs",
+              "RelativeToolTip": "InternalExamWebAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T12:12:44.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ConsoleAppTupleDelegateOopsConcepts",
+              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\InernalExamRelate\\ConsoleAppTupleDelegateOopsConcepts\\ConsoleAppTupleDelegateOopsConcepts.csproj",
+              "RelativeDocumentMoniker": "ConsoleAppTupleDelegateOopsConcepts\\ConsoleAppTupleDelegateOopsConcepts.csproj",
+              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\InernalExamRelate\\ConsoleAppTupleDelegateOopsConcepts\\ConsoleAppTupleDelegateOopsConcepts.csproj",
+              "RelativeToolTip": "ConsoleAppTupleDelegateOopsConcepts\\ConsoleAppTupleDelegateOopsConcepts.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-16T02:03:37.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "StudnetObjIndexer.cs",
+              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\InernalExamRelate\\ConsoleAppTupleDelegateOopsConcepts\\StudnetObjIndexer.cs",
+              "RelativeDocumentMoniker": "ConsoleAppTupleDelegateOopsConcepts\\StudnetObjIndexer.cs",
+              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\InernalExamRelate\\ConsoleAppTupleDelegateOopsConcepts\\StudnetObjIndexer.cs",
+              "RelativeToolTip": "ConsoleAppTupleDelegateOopsConcepts\\StudnetObjIndexer.cs",
+              "ViewState": "AgIAABUAAACA//////8rwB4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T03:24:12.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\InernalExamRelate\\WebAppExamMVC\\Views\\Sales\\Index.cshtml",
               "RelativeDocumentMoniker": "WebAppExamMVC\\Views\\Sales\\Index.cshtml",
@@ -157,38 +439,11 @@
               "RelativeToolTip": "WebAppExamMVC\\Views\\Sales\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-25T16:20:46.745Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-25T16:20:46.745Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\InernalExamRelate\\WebUserPersonaldetailsMVC\\Views\\PersonalDetails\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebUserPersonaldetailsMVC\\Views\\PersonalDetails\\Index.cshtml",
-              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\InernalExamRelate\\WebUserPersonaldetailsMVC\\Views\\PersonalDetails\\Index.cshtml",
-              "RelativeToolTip": "WebUserPersonaldetailsMVC\\Views\\PersonalDetails\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-26T03:27:52.498Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\InernalExamRelate\\WebUserPersonaldetailsMVC\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "WebUserPersonaldetailsMVC\\Controllers\\UsersController.cs",
-              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\InernalExamRelate\\WebUserPersonaldetailsMVC\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "WebUserPersonaldetailsMVC\\Controllers\\UsersController.cs",
-              "ViewState": "AgIAABYAAAAAMzMzMzMgwDcAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T06:22:46.631Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 23,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\InernalExamRelate\\WebUserPersonaldetailsMVC\\Views\\PersonalDetails\\Create.cshtml",
               "RelativeDocumentMoniker": "WebUserPersonaldetailsMVC\\Views\\PersonalDetails\\Create.cshtml",
@@ -196,25 +451,11 @@
               "RelativeToolTip": "WebUserPersonaldetailsMVC\\Views\\PersonalDetails\\Create.cshtml",
               "ViewState": "AgIAACIAAACAmZmZmZkhwF0AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-12T09:40:49.602Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-12T09:40:49.602Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "PersonalDetailsController.cs",
-              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\InernalExamRelate\\WebUserPersonaldetailsMVC\\Controllers\\PersonalDetailsController.cs",
-              "RelativeDocumentMoniker": "WebUserPersonaldetailsMVC\\Controllers\\PersonalDetailsController.cs",
-              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\InernalExamRelate\\WebUserPersonaldetailsMVC\\Controllers\\PersonalDetailsController.cs",
-              "RelativeToolTip": "WebUserPersonaldetailsMVC\\Controllers\\PersonalDetailsController.cs",
-              "ViewState": "AgIAAEUAAACAmZmZmZkgwFMAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T09:29:19.912Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 24,
               "Title": "PersonalDetail.cs",
               "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\InernalExamRelate\\WebUserPersonaldetailsMVC\\Models\\PersonalDetail.cs",
               "RelativeDocumentMoniker": "WebUserPersonaldetailsMVC\\Models\\PersonalDetail.cs",
@@ -222,12 +463,11 @@
               "RelativeToolTip": "WebUserPersonaldetailsMVC\\Models\\PersonalDetail.cs",
               "ViewState": "AgIAAAQAAADAMjMzMzMLwA0AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T02:44:37.318Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-26T02:44:37.318Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 25,
               "Title": "UserPersonalDetailsContext.cs",
               "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\InernalExamRelate\\WebUserPersonaldetailsMVC\\Models\\UserPersonalDetailsContext.cs",
               "RelativeDocumentMoniker": "WebUserPersonaldetailsMVC\\Models\\UserPersonalDetailsContext.cs",
@@ -239,19 +479,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\InernalExamRelate\\WebUserPersonaldetailsMVC\\Views\\Users\\Create.cshtml",
-              "RelativeDocumentMoniker": "WebUserPersonaldetailsMVC\\Views\\Users\\Create.cshtml",
-              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\InernalExamRelate\\WebUserPersonaldetailsMVC\\Views\\Users\\Create.cshtml",
-              "RelativeToolTip": "WebUserPersonaldetailsMVC\\Views\\Users\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-26T01:28:36.298Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 26,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\InernalExamRelate\\WebAppExamMVC\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "WebAppExamMVC\\Views\\Shared\\_Layout.cshtml",
@@ -263,7 +491,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 27,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\InernalExamRelate\\WebAppExamMVC\\Views\\Products\\Index.cshtml",
               "RelativeDocumentMoniker": "WebAppExamMVC\\Views\\Products\\Index.cshtml",
@@ -275,7 +503,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 29,
               "Title": "Sale.cs",
               "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\InernalExamRelate\\WebAppExamMVC\\Models\\Sale.cs",
               "RelativeDocumentMoniker": "WebAppExamMVC\\Models\\Sale.cs",
@@ -287,7 +515,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 28,
               "Title": "dbo.Sale.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Internal/True/SqlTable/dbo.Sale.sql",
               "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Internal/True/SqlTable/dbo.Sale.sql",
@@ -296,20 +524,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "StudnetObjIndexer.cs",
-              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\InernalExamRelate\\ConsoleAppTupleDelegateOopsConcepts\\StudnetObjIndexer.cs",
-              "RelativeDocumentMoniker": "ConsoleAppTupleDelegateOopsConcepts\\StudnetObjIndexer.cs",
-              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\InernalExamRelate\\ConsoleAppTupleDelegateOopsConcepts\\StudnetObjIndexer.cs",
-              "RelativeToolTip": "ConsoleAppTupleDelegateOopsConcepts\\StudnetObjIndexer.cs",
-              "ViewState": "AgIAAC4AAABgmZmZmZkiwEAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-20T03:24:12.451Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 31,
               "Title": "GenericClass.cs",
               "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\InernalExamRelate\\ConsoleAppTupleDelegateOopsConcepts\\GenericClass.cs",
               "RelativeDocumentMoniker": "ConsoleAppTupleDelegateOopsConcepts\\GenericClass.cs",
@@ -321,7 +536,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 30,
               "Title": "GenericExample.cs",
               "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\InernalExamRelate\\ConsoleAppTupleDelegateOopsConcepts\\GenericExample.cs",
               "RelativeDocumentMoniker": "ConsoleAppTupleDelegateOopsConcepts\\GenericExample.cs",

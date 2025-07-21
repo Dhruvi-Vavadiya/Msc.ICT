@@ -1,0 +1,16 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<div>
+    <h1>thank you</h1>
+    <h2>Token Number: @TempData["TokenNumber"]</h2>
+    <h2>Returning to start in 5 secoends...</h2>
+    <a asp-action="create">Back to start</a>
+    <script>
+        setTimeout(function () {
+            window.location.href = '@Url.Action("create", "MicmAdoNet")';
+        }, 5000);
+	</script>
+</div>

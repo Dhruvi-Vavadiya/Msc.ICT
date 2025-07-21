@@ -18,6 +18,10 @@ namespace ConsoleAppTupleDelegateOopsConcepts
         {
             return $"id :- {sid} sname :- {sname} age :- {age}";
         }
+        public string getData()
+        {
+            return $"id :- {sid} sname :- {sname} age :- {age}";
+        }
     }
 
     class studnetCollection1
@@ -66,7 +70,7 @@ namespace ConsoleAppTupleDelegateOopsConcepts
             Console.WriteLine("Enter sudent name :- ");
             string name = Console.ReadLine();
 
-            Console.WriteLine(studnetCollection[name].ToString());
+            Console.WriteLine(studnetCollection[name].getData());
         }
     }
 }

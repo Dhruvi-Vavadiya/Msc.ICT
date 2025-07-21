@@ -1,0 +1,34 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+
+}
+<div>
+    <h1>Pending count :- @ViewBag.PendingCount</h1>
+    
+      @* <div class="counters">
+        @for (int i = 1; i <= 4; i++)
+        {
+            var counter = Model.CounterStatuses.FirstOrDefault(c => c.CounterNumber == i);
+            <div class="counter-box">
+                🧑‍💻 <strong>Counter @i:</strong>
+                @if (counter != null && counter.IsInService)
+                {
+                    <span>@counter.TokenNumber - In Service</span>
+                }
+                else
+                {
+                    <span>Available</span>
+                }
+            </div>
+        }
+    </div> *@
+</div>
+
+<script>
+    // Auto-refresh page every 5 seconds
+    setTimeout(function () {
+        location.reload();
+    }, 5000);
+</script>

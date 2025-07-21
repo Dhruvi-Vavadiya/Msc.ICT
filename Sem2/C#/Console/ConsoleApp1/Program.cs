@@ -6,6 +6,15 @@ public class Program
 {
     public static void Main()
     {
+
+       
+            Complex num1 = new Complex(2, 3);
+            Complex num2 = new Complex(4, 5);
+
+            Complex result = num1 * num2;  // Using overloaded +
+
+            result.Display();   
+        
         Console.WriteLine("Hello, mahadev!");
 
         StudnetCollection<int> dataColl = new StudnetCollection<int>();

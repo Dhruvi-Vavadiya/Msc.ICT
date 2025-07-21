@@ -64,7 +64,6 @@ namespace ConsoleAppOOPsC_
 
     public class Car : Vehical
     {
-
         public string Color
         {
             get { return color; }
@@ -87,7 +86,6 @@ namespace ConsoleAppOOPsC_
     {
         // statically-bound new keyword
         public string HomeAddress()
-
         {
             return "Hoem address in shape class";
         }
@@ -115,8 +113,6 @@ namespace ConsoleAppOOPsC_
         {
             Console.WriteLine("Rectangel class : Rectangel ");
         }
-
-
     }
 
     //-------------------------------------------------

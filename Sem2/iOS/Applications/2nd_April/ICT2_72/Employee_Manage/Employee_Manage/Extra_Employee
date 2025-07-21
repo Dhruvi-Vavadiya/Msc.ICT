@@ -10,6 +10,7 @@ import CoreData
 
 class ViewController: UIViewController,UITableViewDataSource,UITableViewDelegate {
     var list : [NSManagedObject] = []
+	
     func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
         return list.count
     }
@@ -18,7 +19,7 @@ class ViewController: UIViewController,UITableViewDataSource,UITableViewDelegate
         
         let cell = tableView.dequeueReusableCell(withIdentifier: "Emp", for: indexPath)
                 
-                let employee = list[indexPath.row]
+        let employee = list[indexPath.row]
                 
                 // Configure the cell with more data from Core Data
                 let name = employee.value(forKey: "empname") as? String ?? "No Name"
@@ -125,16 +126,31 @@ class ViewController: UIViewController,UITableViewDataSource,UITableViewDelegate
     @IBAction func btnFetch(){
                 let appDelegate = UIApplication.shared.delegate as? AppDelegate
                 let managedContext = appDelegate!.persistentContainer.viewContext
-                
+                //var emps : [NSManagedObject] = []
                 let fetchRequest = NSFetchRequest<NSManagedObject>(entityName: "Emp")
                 
                 do {
-                    list = try managedContext.fetch(fetchRequest)
+                    emps = try moc.fetch(fetchRequest)
                     // Reload the table view to reflect the fetched data
                     //tableView.reloadData()
                 } catch let error as NSError {
                     print("Could not fetch. \(error), \(error.userInfo)")
                 }
+				
+				
+				//////////
+				// var emps: [Employee] = []
+   
+				 let request: NSFetchRequest<Employee> = Employee.fetchRequest()
+        do{
+            emps = try mo.fetch(request)
+            tableview.reloadData()
+        }catch{
+            
+        }
+		
+		
+		/////////
     }
     
 }

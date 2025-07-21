@@ -1,0 +1,99 @@
+﻿@model MICMExam.Models.HelpDeskCall
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Edit</h1>
+
+<h4>HelpDeskCall</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <select name="ExecutiveName" class="form-control">
+				<option value="">Select Customer</option>
+                @foreach (var customer in ViewBag.Executive_Names)
+				{
+					<option value="@customer">@customer</option>
+				}
+            </select>
+            <div>
+                
+                    <input type="radio" name="counterNo" value="1" />[1]
+                <input type="radio" name="counterNo" value="2" />[2]
+                <input type="radio" name="counterNo" value="3" />[3]
+                <input type="radio" name="counterNo" value="4" />[4]
+            </div>
+           @*  <input type="hidden" asp-for="Id" />
+            <div class="form-group">
+                <label asp-for="CustomerName" class="control-label"></label>
+                <input asp-for="CustomerName" class="form-control" />
+                <span asp-validation-for="CustomerName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CustomerQuery" class="control-label"></label>
+                <input asp-for="CustomerQuery" class="form-control" />
+                <span asp-validation-for="CustomerQuery" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TokenNumber" class="control-label"></label>
+                <input asp-for="TokenNumber" class="form-control" />
+                <span asp-validation-for="TokenNumber" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="AssignedCounterNo" class="control-label"></label>
+                <input asp-for="AssignedCounterNo" class="form-control" />
+                <span asp-validation-for="AssignedCounterNo" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ExecutiveName" class="control-label"></label>
+                <input asp-for="ExecutiveName" class="form-control" />
+                <span asp-validation-for="ExecutiveName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ResolutionRemarks" class="control-label"></label>
+                <input asp-for="ResolutionRemarks" class="form-control" />
+                <span asp-validation-for="ResolutionRemarks" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ResolutionStatus" class="control-label"></label>
+                <input asp-for="ResolutionStatus" class="form-control" />
+                <span asp-validation-for="ResolutionStatus" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CreatedOn" class="control-label"></label>
+                <input asp-for="CreatedOn" class="form-control" />
+                <span asp-validation-for="CreatedOn" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ResolvedOn" class="control-label"></label>
+                <input asp-for="ResolvedOn" class="form-control" />
+                <span asp-validation-for="ResolvedOn" class="text-danger"></span>
+            </div> *@
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+        @if (TempData["SuccessMessage"] != null){
+			<div class="alert alert-success">
+				@TempData["SuccessMessage"]
+			</div>
+        }
+        @if (TempData["ErrorMessage"] != null){
+            <div class="alert alert-danger">
+                @TempData["ErrorMessage"]
+            </div>
+        }
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

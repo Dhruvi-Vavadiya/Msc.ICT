@@ -3,13 +3,13 @@
   "WorkspaceRootPath": "D:\\Msc_ICT\\Sem2\\C#\\ICT2_72\\ExampleWebApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F2A620B3-6D42-4B0C-91AA-FAB23B7F713F}|..\\ConsoleStudentApp\\ConsoleStudentApp.csproj|d:\\msc_ict\\sem2\\c#\\ict2_72\\consolestudentapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F2A620B3-6D42-4B0C-91AA-FAB23B7F713F}|..\\ConsoleStudentApp\\ConsoleStudentApp.csproj|d:\\msc_ict\\sem2\\c#\\ict2_72\\consolestudentapp\\studnetcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F2A620B3-6D42-4B0C-91AA-FAB23B7F713F}|..\\ConsoleStudentApp\\ConsoleStudentApp.csproj|d:\\msc_ict\\sem2\\c#\\ict2_72\\consolestudentapp\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2A620B3-6D42-4B0C-91AA-FAB23B7F713F}|..\\ConsoleStudentApp\\ConsoleStudentApp.csproj|d:\\msc_ict\\sem2\\c#\\ict2_72\\consolestudentapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,7 +19,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -31,7 +31,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\ICT2_72\\ConsoleStudentApp\\Program.cs",
               "RelativeDocumentMoniker": "..\\ConsoleStudentApp\\Program.cs",
@@ -44,27 +44,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "StudnetCollection.cs",
               "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\ICT2_72\\ConsoleStudentApp\\StudnetCollection.cs",
               "RelativeDocumentMoniker": "..\\ConsoleStudentApp\\StudnetCollection.cs",
               "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\ICT2_72\\ConsoleStudentApp\\StudnetCollection.cs",
               "RelativeToolTip": "..\\ConsoleStudentApp\\StudnetCollection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAADAmZmZmZktwBYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T11:41:33.29Z"
+              "WhenOpened": "2025-04-04T11:41:33.29Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "students.cs",
               "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\ICT2_72\\ConsoleStudentApp\\students.cs",
               "RelativeDocumentMoniker": "..\\ConsoleStudentApp\\students.cs",
               "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\ICT2_72\\ConsoleStudentApp\\students.cs",
               "RelativeToolTip": "..\\ConsoleStudentApp\\students.cs",
-              "ViewState": "AgIAAAgAAAAwMzMzMzM7wBgAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T15:42:49.545Z"
+              "WhenOpened": "2025-03-18T15:42:49.545Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -33,3 +33,4 @@ D:\Msc_ICT\Sem2\C#\Console\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
 D:\Msc_ICT\Sem2\C#\Console\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
 D:\Msc_ICT\Sem2\C#\Console\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
 D:\Msc_ICT\Sem2\C#\Console\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
+D:\Msc_ICT\Sem2\C#\Console\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.sourcelink.json

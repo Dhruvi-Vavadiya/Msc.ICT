@@ -1,0 +1,120 @@
+﻿@model MICMExam.Models.HelpDeskCall
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Customer Service Ticket</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+
+        .container {
+            width: 350px;
+            margin: 0 auto;
+            background-color: white;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+
+        .header {
+            display: flex;
+            justify-content: space-between;
+            padding: 10px 15px;
+            border-bottom: 1px solid #eee;
+            font-weight: bold;
+        }
+
+        .ticket {
+            padding: 15px;
+        }
+
+        .field {
+            margin-bottom: 15px;
+        }
+
+        .field-title {
+            font-weight: bold;
+            margin-bottom: 3px;
+        }
+
+        .remarks {
+            margin-top: 20px;
+            margin-bottom: 20px;
+        }
+
+            .remarks input {
+                width: 100%;
+                padding: 5px;
+                border: 1px dashed #999;
+            }
+
+        .buttons {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 20px;
+        }
+
+            .buttons button {
+                padding: 8px 12px;
+                border: none;
+                border-radius: 3px;
+                cursor: pointer;
+                font-weight: bold;
+            }
+
+        .resolve {
+            background-color: #4CAF50;
+            color: white;
+        }
+
+        .left {
+            background-color: #f44336;
+            color: white;
+        }
+
+        .next {
+            background-color: #2196F3;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <div class="executive">Executive: @ViewBag.helpname</div>
+            <div class="counter">Counter: @ViewBag.counterno</div>
+        </div>
+
+        <div class="ticket">
+            <div class="field">
+                <div class="field-title">Token: @Html.DisplayFor(model => model.TokenNumber)</div>
+            </div>
+
+            <div class="field">
+                <div class="field-title">Customer: @Html.DisplayFor(model => model.CustomerName)</div>
+            </div>
+
+            <div class="field">
+                <div class="field-title">Complaint: @Html.DisplayFor(model => model.CustomerQuery)</div>
+            </div>
+
+            <div class="remarks">
+                <div class="field-title">Remarks:</div>
+                <input type="text" placeholder="________">
+            </div>
+
+            <div class="buttons">
+                <button class="resolve">RESOLVE</button>
+                <button class="left">CUSTOMER LEFT</button>
+                <button class="next">REQUEST NEXT</button>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

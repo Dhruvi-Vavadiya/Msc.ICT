@@ -58,9 +58,61 @@ class dvcsegue: UIViewController,UITableViewDelegate,UITableViewDataSource {
         }catch{
             
         }
+		//extra
+		//var list : [NSManagedObject] = []
+           let fetchRequest = NSFetchRequest<NSManagedObject>(entityName: "Emp")
+                
+           do {
+                list = try managedContext.fetch(fetchRequest)
+                    // Reload the table view to reflect the fetched data
+                    //tableView.reloadData()
+                } catch let error as NSError {
+                    print("Could not fetch. \(error), \(error.userInfo)")
+                }
     }
     
-    @IBAction func btn_insert(_ sender: Any) {
+  
+    
+    func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
+        return emps.count //1
+    }
+    
+    func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
+        
+        let cell = tableView.dequeueReusableCell(withIdentifier: "cell", for: indexPath) //2
+        let e = emps[indexPath.row] //3
+        
+        
+        cell.textLabel?.text = "(\(emp.id)) - \(emp.ename ?? "")(\(emp.dob)) (\(emp.age)) (\(emp.gender)) " //4
+        return cell//5
+        
+    }
+    
+    //didseleRow At
+    func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
+      
+        let e = emps[indexPath.row]
+		
+        txt_id.text = "\(e.id)"
+        txt_name.text = e.ename
+        txt_age.text = "\(e.age)"
+       // Set the gender segment based on saved data
+    if e.gender == "Male" {
+        seg_gender.selectedSegmentIndex = 0
+    } else if e.gender == "Female" {
+        seg_gender.selectedSegmentIndex = 1
+    }
+        let df = DateFormatter()
+    df.dateFormat = "yyyy-MM-dd" // Adjust format based on stored date format
+    if let d = df.date(from: e.dob) {
+        date_piker.date = d
+    }
+    date_piker.date
+		
+        selectupdate = e
+
+    }
+      @IBAction func btn_insert(_ sender: Any) {
         
         let appD = UIApplication.shared.delegate as! AppDelegate
         let mo = appD.persistentContainer.viewContext
@@ -90,57 +142,21 @@ class dvcsegue: UIViewController,UITableViewDelegate,UITableViewDataSource {
         
     
     }
-    
-    func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
-        return emps.count //1
-    }
-    
-    func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
-        
-        let cell = tableView.dequeueReusableCell(withIdentifier: "cell", for: indexPath) //2
-        let emp = emps[indexPath.row] //3
-        
-        
-        cell.textLabel?.text = "(\(emp.id)) - \(emp.ename ?? "")(\(emp.dob)) (\(emp.age)) (\(emp.gender)) " //4
-        return cell//5
-        
-    }
-    
-    //didseleRow At
-    //update
-    func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
-      
-        let e = emps[indexPath.row]
-		
-        txt_id.text = "\(e.id)"
-        txt_name.text = e.ename
-        txt_age.text = "\(e.age)"
-        if seg_gender.selectedSegmentIndex == 0 {
-            e.gender = "Male"
-        }else{
-            e.gender = "FeMale"
-        }
-        date_piker.date
-		
-        selectupdate = e
-
-    }
-    
     @IBAction func btn_update(_ sender: Any) {
-        guard let selectemp = selectupdate else{
+        guard let selemp = selectupdate else{
            
             self.loadalert(string: "Error", string: "Edit and press update")
             return
         }
-        selectemp.id = Int16(txt_id.text!)!
-        selectemp.ename = txt_name.text!
-        selectemp.age = Int16(txt_age.text!)!
+        selemp.id = Int16(txt_id.text!)!
+        selemp.ename = txt_name.text!
+        selemp.age = Int16(txt_age.text!)!
         if seg_gender.selectedSegmentIndex == 0 {
-            selectemp.gender = "Male"
+            selemp.gender = "Male"
         }else{
-            selectemp.gender = "FeMale"
+            selemp.gender = "FeMale"
         }
-        selectemp.dob = date_piker.date
+        selemp.dob = date_piker.date
         
                 let appD = UIApplication.shared.delegate as! AppDelegate
                let mo = appD.persistentContainer.viewContext
@@ -167,8 +183,8 @@ class dvcsegue: UIViewController,UITableViewDelegate,UITableViewDataSource {
         
         
         if editingStyle == .delete{
-            let employeetodelete = emps[indexPath.row]
-            mo.delete(employeetodelete)
+            let e = emps[indexPath.row]
+            mo.delete(e)
             
             do{
                 try! mo.save()
