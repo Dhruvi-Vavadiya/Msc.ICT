@@ -1,1 +1,13 @@
-hello world !!!!!!!!!!
+when am study in node js that time install this pakage
+1.git init
+2.npm install express
+3.npm install -g nodemon
+4.npm install multer
+5.npm install express-session
+6.npm install cookie-parser 
+7.npm i ejs 
+8.npm i express-validator
+9.npm i express-ejs-layouts
+
+
+n.nodemon app

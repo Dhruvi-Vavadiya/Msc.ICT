@@ -1,0 +1,67 @@
+12 parts
+call 1 api to another node app
+cross origin resourse error
+
+*types of API accessibility
+ ->open APIs
+ ->Partner APIs
+ ->Internal APIs
+ ->Composite APIs
+
+ *Advantage
+  -> manageable
+  -> scalability
+
+*types of API(Architectural style)
+SOAP(simale object access protocol)
+XML-RPC
+JSON-RPC
+REST(represantinal state trasfer) .graphql
+Event-Driven (pub-sub model,webhooks,websockets)
+
+*API tesing of any technology(REST client)
+devloper tools of browser
+CURL(client for url) (curl.se)<--website for more ingo
+curl -X GET http://localhost:8000/books
+postman
+insomnia
+
+
+*2 way to create an application
+1)using template
+config,models,node_module,routes,view,.env,server.js
+2)API
+
+
+s1 :- create on router to get link
+
+books/list models,router create one route /list then res.render ejs to book object json data
+add view folder one ejs add foreach loop to get data
+add insert view create two route get /add and post /books/save res.redrect to list
+add edit ejs view (get get id and pass edit view to id ) id input field is hidden (post /books/update findoneand update redirect to list)
+
+
+thired party api call
+
+
+morgan (tiny,dev)
+
+helmet protected header level
+
+*Security API Endpoint best practices
+
+
+least privilage
+validate HTTP mehtods
+whitelist allowale methods(safe & unsafe methods)
+never expose info on URLs
+protect privileged actions and sensitive resourse collections
+consider adding timestamp in request
+protect against cross-sitr request forgery
+  use sniffers to detect security  issues and track data leaks
+  rate limiting
+  use secure cookies
+  don't show powered by exprwss
+  use quotas and throttling 
+  input validation
+  json encodingxml encodingsecirty headers

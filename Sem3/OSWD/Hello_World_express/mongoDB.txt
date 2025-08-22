@@ -1,0 +1,5 @@
+show database;
+use db_ict
+show collaction
+db.users.insert({name:"user",city:"surat"})
+db.users.find()
